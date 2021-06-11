@@ -1,0 +1,1486 @@
+	Diagnosis	D	Age	Sex	neutrophil	neutrophilCategorical	serumLevelsOfWhiteBloodCell	serumLevelsOfWhiteBloodCellCategorical	lymphocytes	lymphocytesCategorical	CTscanResults	XrayResults	Diarrhea	Fever	Coughing	SoreThroat	NauseaVomitting	Temperature	Fatigue	RenalDisease	diabetes
+0	H1N1	0	67	F										Yes	Yes	No		38.11111111	No		
+1	H1N1	0	29	M																	
+2	H1N1	0	22	F																	
+3	H1N1	0	20	F										Yes	Yes	No		36.55555556	Yes	No	No
+4	H1N1	0	21	M																	
+5	H1N1	0	22	F																	
+6	H1N1	0	19	F																	
+7	H1N1	0	60	M										No	Yes	No		38.16666667	No	Yes	No
+8	H1N1	0	46	F										Yes	Yes	No		38.61111111	No		
+9	H1N1	0	18	M																	
+10	H1N1	0	53	M										No	No	No		36.22222222	No	No	Yes
+11	H1N1	0	56	M														36.77777778		No	No
+12	H1N1	0	55	F																	
+13	H1N1	0	36	M										Yes	Yes	No		36.72222222	No	No	Yes
+14	H1N1	0	29	F										Yes	No	No		37.83333333	No		
+15	H1N1	0	60	F										No	No	No		36.77777778	No	No	Yes
+16	H1N1	0	63	F										No	No	No		37.44444444	No	Yes	Yes
+17	H1N1	0	21	F										Yes	Yes	No		36.11111111	No		
+18	H1N1	0	66	M										Yes	Yes	No		39.72222222	No		
+19	H1N1	0	22	F										No	No	Yes		36.11111111	No		
+20	H1N1	0	31	M										Yes	Yes	No		38	No	No	No
+21	H1N1	0	65	F										Yes	Yes	No		38.11111111	No		
+22	H1N1	0	68	M										No	Yes	No		37.05555556	No	No	No
+23	H1N1	0	35	F										No	No	No			No		
+24	H1N1	0	31	M										No	No	No			No		
+25	H1N1	0	19	F										No	No	No			No		
+26	H1N1	0	26	F										Yes	No	Yes		39	No		
+27	H1N1	0	65	M										No	No	No			No		
+28	H1N1	0	56	M										Yes	No	No		38.11111111	No	No	No
+29	H1N1	0	54	M										No	No	No		36.38888889	No		
+30	H1N1	0	21	F										Yes	No	No		38.61111111	No	No	No
+31	H1N1	0	57	F										Yes	Yes	No		38.94444444	No	No	No
+32	H1N1	0	18	F										Yes	No	No		38.55555556	No		
+33	H1N1	0	47	M										No	Yes	Yes			No	No	Yes
+34	H1N1	0	26	F										Yes	No	No		38.88888889	No		
+35	H1N1	0	64	F										Yes	No	No		39.44444444	No		
+36	H1N1	0	73	F										No	Yes	No		37	No	No	No
+37	H1N1	0	44	M										No	Yes	Yes			No		
+38	H1N1	0	24	F										Yes	Yes	No		37.94444444	No		
+39	H1N1	0	34	F										No	No	No			No		
+40	H1N1	0	51	M										Yes	Yes	No		38.22222222	No	No	No
+41	H1N1	0	49	F										Yes	Yes	Yes		38.44444444	No	No	Yes
+42	H1N1	0	77	F										No	No	No		36.94444444	No	No	No
+43	H1N1	0	54	F										No	No	No			No	No	No
+44	H1N1	0	23	F										No	Yes	No			No	No	Yes
+45	H1N1	0	21	F										No	No	No			No		
+46	H1N1	0	83	F										Yes	Yes	No		38	No	No	No
+47	H1N1	0	58	F											Yes	No		36.77777778	Yes		
+48	H1N1	0	48	M										Yes	No	No		37.33333333	No		
+49	H1N1	0	57	F										No	Yes	No		36.66666667	No		
+50	H1N1	0	31	M										Yes	No	No		38.88888889	No	No	No
+51	H1N1	0	46	M										Yes	No	No		39.44444444	No	No	Yes
+52	H1N1	0	51	F										Yes	Yes	Yes		37.66666667	No		
+53	H1N1	0	63	F										Yes	Yes	Yes		38.55555556	No		
+54	H1N1	0	36	M										No	Yes	No		36.83333333	No		
+55	H1N1	0	18	F										No	No	Yes			No	No	No
+56	H1N1	0	21	M										No	Yes	No			No	No	No
+57	H1N1	0	34	F										Yes	No	Yes		38.72222222	No		
+58	H1N1	0	72	F										Yes	No	No		39.11111111	No		
+59	H1N1	0	57	M										Yes	Yes	No		38.5	No	No	No
+60	H1N1	0	40	F										Yes	No	No		38.83333333	No		
+61	H1N1	0	45	M										Yes	No	No		38.33333333	No	No	No
+62	H1N1	0	23	F										Yes	Yes	Yes		37.16666667	No	No	No
+63	H1N1	0	51	M										No	No	No			No	No	No
+64	H1N1	0	49	F										Yes	Yes	No		37.27777778	No		
+65	H1N1	0	71	M										Yes	Yes	No		38.16666667	No	No	Yes
+66	H1N1	0	66	M										No	Yes	No		36.16666667	No		
+67	H1N1	0	46	M																	
+68	H1N1	0	20	F										Yes	Yes	No					
+69	H1N1	0	51	F										Yes	Yes	No				No	No
+70	H1N1	0	51	M										Yes	Yes	No					
+71	H1N1	0		M										Yes	Yes	No					
+72	H1N1	0	24	M										Yes	Yes	No					
+73	H1N1	0	40	F										Yes	Yes	No				No	No
+74	H1N1	0	44	F										No	Yes	No				No	No
+75	H1N1	0	28	F										Yes	Yes	Yes					
+76	H1N1	0	25	M										Yes	Yes	Yes					
+77	H1N1	0	29	M										Yes	Yes	No					
+78	H1N1	0												Yes	Yes	Yes					
+79	H1N1	0	52	F										Yes	Yes	Yes				No	No
+80	H1N1	0	43	M										Yes	Yes	No					
+81	H1N1	0	54	F										No	Yes	No				No	No
+82	H1N1	0	29	M																	
+83	H1N1	0	21	F										Yes	No	Yes					
+84	H1N1	0	60	F										Yes	Yes	No				No	No
+85	H1N1	0	40	F										No	Yes	No					
+86	H1N1	0	8	F										Yes	Yes	No					
+87	H1N1	0	39	F										Yes	Yes	No				No	No
+88	H1N1	0	50	M										Yes	Yes	No					
+89	H1N1	0	59	F										No	Yes	No				No	No
+90	H1N1	0	25	F										Yes	Yes	No					
+91	H1N1	0	73	F										No	Yes	No				No	No
+92	H1N1	0	48	F										Yes	Yes	No				No	No
+93	H1N1	0	54	M										Yes	Yes	No					
+94	H1N1	0	9	F										Yes	Yes	No				No	No
+95	H1N1	0	50	F										Yes	Yes	No					
+96	H1N1	0	27	F										No	No	No					
+97	H1N1	0	9															38.1			
+98	H1N1	0	17															39.6			
+99	H1N1	0	15															37.8			
+100	H1N1	0	1															37.3			
+101	H1N1	0	5															37.9			
+102	H1N1	0	1															37.8			
+103	H1N1	0	1															39.2			
+104	H1N1	0	1															37.8			
+105	H1N1	0	1															36.3			
+106	H1N1	0	18															39.4			
+107	H1N1	0	22															36.4			
+108	H1N1	0	1															37.8			
+109	H1N1	0	1															36.7			
+110	H1N1	0	17															36.8			
+111	H1N1	0	1															36.7			
+112	H1N1	0	13															38.4			
+113	H1N1	0	1															38.4			
+114	H1N1	0	1															39.4			
+115	H1N1	0	10															39			
+116	H1N1	0	1															36.4			
+117	H1N1	0	11															39.2			
+118	H1N1	0	5															41.8			
+119	H1N1	0	4															38.1			
+120	H1N1	0	1															36.8			
+121	H1N1	0	1															38.1			
+122	H1N1	0	1															40.1			
+123	H1N1	0	18															36.8			
+124	H1N1	0	1																		
+125	H1N1	0	1															37.7			
+126	H1N1	0	1															38			
+127	H1N1	0	1															37.6			
+128	H1N1	0	2															38.4			
+129	H1N1	0	5															37.8			
+130	H1N1	0	8															36.2			
+131	H1N1	0	7															38.4			
+132	H1N1	0	3															37			
+133	H1N1	0	5															38.7			
+134	H1N1	0	1															36.9			
+135	H1N1	0	1															36.3			
+136	H1N1	0	1															38.3			
+137	H1N1	0	2															37.3			
+138	H1N1	0	5															40.5			
+139	H1N1	0	1															37.3			
+140	H1N1	0	1															38.5			
+141	H1N1	0	1															38.1			
+142	H1N1	0	1															38.6			
+143	H1N1	0	1															37.6			
+144	H1N1	0	3															38			
+145	H1N1	0	20															36.3			
+146	H1N1	0	16															38			
+147	H1N1	0	16															40.2			
+148	H1N1	0	1															38.2			
+149	H1N1	0	8															39.2			
+150	H1N1	0	1																		
+151	H1N1	0	33	F										Yes	Yes	Yes		39	Yes		
+152	H1N1	0	54	F										Yes	Yes	Yes		38.33333333	Yes		
+153	H1N1	0	37	F										Yes	Yes	Yes		38.05555556	Yes	No	No
+154	H1N1	0	47	M										Yes	Yes	Yes		38.33333333	Yes	Yes	Yes
+155	H1N1	0	32	F										Yes	Yes	Yes		39.44444444	Yes		
+156	H1N1	0	21	F										Yes	Yes	Yes			Yes		
+157	H1N1	0	31	F										Yes	Yes	Yes		36.94444444	Yes	No	No
+158	H1N1	0	43	M										Yes	Yes	Yes		38.88888889	Yes		
+159	H1N1	0	1	F										Yes	Yes	Yes		37.83333333		No	No
+160	H1N1	0	33	M										Yes	Yes	Yes		37.88888889	Yes	No	Yes
+161	H1N1	0	26	F										Yes	Yes	Yes		37.5	Yes	No	Yes
+162	H1N1	0	26	M										Yes	Yes	Yes		36.88888889	Yes		
+163	H1N1	0	76	F										Yes	Yes	Yes		38.77777778	Yes	No	No
+164	H1N1	0	51	M										Yes	Yes	Yes		38	Yes	Yes	Yes
+165	H1N1	0	36	F										Yes	Yes	Yes		36.83333333	Yes	No	No
+166	H1N1	0	60	M										Yes	Yes	Yes		38.72222222	Yes	No	Yes
+167	H1N1	0	29	F										Yes	Yes	Yes			Yes		
+168	H1N1	0	62	F										Yes	Yes	Yes		38.88888889	Yes	Yes	No
+169	H1N1	0	27	F										Yes	Yes	Yes		36.61111111	Yes	No	Yes
+170	H1N1	0	35	M										Yes	Yes	Yes			Yes	No	No
+171	H1N1	0	50	F										Yes	Yes	Yes			Yes	No	Yes
+172	H1N1	0	84	M										Yes	Yes	Yes		39.27777778	Yes		
+173	H1N1	0	33	M										Yes	Yes	Yes			Yes		
+174	H1N1	0	30	F										Yes	Yes	Yes			Yes		
+175	H1N1	0	50	F										Yes	Yes	Yes		37.5	Yes		
+176	H1N1	0	48	M										Yes	Yes	Yes		38.33333333	Yes		
+177	H1N1	0	38	F										Yes	Yes				Yes	No	No
+178	H1N1	0	79	M										Yes	Yes	Yes		35.72222222	Yes	Yes	Yes
+179	H1N1	0	32	F										Yes	Yes	Yes			Yes		
+180	H1N1	0	42	M										Yes	Yes	Yes		37.44444444	Yes		
+181	H1N1	0	61	M										Yes	Yes	Yes		36.83333333	Yes		
+182	H1N1	0	23	F										Yes	Yes	Yes		38.88888889	Yes		
+183	H1N1	0	50	F										Yes	Yes	Yes			Yes	No	Yes
+184	H1N1	0	43	F										Yes	Yes	Yes		39.55555556	Yes		
+185	H1N1	0	53	M																No	Yes
+186	H1N1	0	47	F										Yes	Yes	Yes			Yes		
+187	H1N1	0	38	F										Yes	Yes	Yes		37.22222222	Yes		
+188	H1N1	0	35	M										Yes	Yes	Yes		36.88888889	Yes		
+189	H1N1	0	81	F										Yes	Yes	Yes		38.72222222	Yes	Yes	No
+190	H1N1	0	21	F										Yes	Yes	Yes		38.27777778	Yes	No	No
+191	H1N1	0	27	F										No	No	No			No		
+192	H1N1	0	24	F										Yes	Yes	Yes			Yes		
+193	H1N1	0	47	F										Yes	Yes	Yes		39.27777778	Yes	No	No
+194	H1N1	0	34	F										No	No	No			No		
+195	H1N1	0	32	M										No	No	No			No		
+196	H1N1	0	38	F										Yes	Yes	Yes		39.05555556	Yes		
+197	H1N1	0	47	F														37.38888889			
+198	H1N1	0	26	F										Yes	Yes	Yes		36.83333333	Yes		
+199	H1N1	0	36	F										Yes	Yes	Yes		37.33333333	Yes		
+200	H1N1	0	42	M										Yes	Yes	Yes		37.61111111	Yes		
+201	H1N1	0	44	F										Yes	Yes	Yes		36.61111111	Yes		
+202	H1N1	0	32	F										Yes	Yes	Yes		38.11111111	Yes		
+203	H1N1	0	88	F										Yes	Yes	Yes		37.83333333	Yes	No	No
+204	H1N1	0	24	M										Yes	Yes	Yes		39.77777778	Yes		
+205	H1N1	0	43	M																No	No
+206	H1N1	0	42	F																	
+207	H1N1	0	2	M																No	No
+208	H1N1	0	82	M																No	No
+209	H1N1	0	59	M																No	No
+210	H1N1	0	45	M																No	No
+211	H1N1	0	10	M																No	No
+212	H1N1	0	42	F																No	No
+213	H1N1	0	15	F																Yes	No
+214	H1N1	0	22	M																	
+215	H1N1	0	24	F																	
+216	H1N1	0	20	M																	
+217	H1N1	0	28	F										Yes	Yes	Yes		37	Yes		
+218	H1N1	0	3	M										Yes	Yes			36.77777778			
+219	H1N1	0	15	M																No	No
+220	H1N1	0	0.17	F																	
+221	H1N1	0	76	M										Yes	Yes			39		Yes	Yes
+222	H1N1	0	76	M										Yes	Yes			39.55555556		Yes	Yes
+223	H1N1	0	76	M										Yes	Yes			40.11111111		Yes	Yes
+224	H1N1	0	76	M										Yes	Yes			40.66666667		Yes	Yes
+225	H1N1	0	76	M										Yes	Yes			41.22222222		Yes	Yes
+226	H1N1	0	46	F										Yes	Yes			38		No	No
+227	H1N1	0	46	F										Yes	Yes			38.55555556		No	No
+228	H1N1	0	46	F										Yes	Yes			39.11111111		No	No
+229	H1N1	0	46	F										Yes	Yes			39.66666667		No	No
+230	H1N1	0	12	M										Yes	Yes			39.5		No	No
+231	H1N1	0	12	M										Yes	Yes			40.05555556		No	No
+232	H1N1	0	12	M										Yes	Yes			40.61111111		No	No
+233	H1N1	0	12	M										Yes	Yes			41.16666667		No	No
+234	H1N1	0	12	M										Yes	Yes			41.72222222		No	No
+235	H1N1	0	34	M										Yes	Yes			39		No	No
+236	H1N1	0	34	M										Yes	Yes			39.55555556		No	No
+237	H1N1	0	34	M										Yes	Yes			40.11111111		No	No
+238	H1N1	0	34	M										Yes	Yes			40.66666667		No	No
+239	H1N1	0	73	F										Yes	Yes			37.3		No	Yes
+240	H1N1	0	73	F										Yes	Yes			37.85555556		No	Yes
+241	H1N1	0	21	F										Yes	Yes			39.7			
+242	H1N1	0	21	F										Yes	Yes			40.25555556			
+243	H1N1	0	21	F										Yes	Yes			40.81111111			
+244	H1N1	0	21	F										Yes	Yes			41.36666667			
+245	H1N1	0	58	F										Yes	No			37.8		Yes	No
+246	H1N1	0	58	F										Yes	No			38.35555556		Yes	No
+247	H1N1	0	58	F										Yes	No			38.91111111		Yes	No
+248	H1N1	0	1.17	F										Yes	Yes			39.3			
+249	H1N1	0	1.17	F										Yes	Yes			39.85555556			
+250	H1N1	0	1.17	F										Yes	Yes			40.41111111			
+251	H1N1	0	1.17	F										Yes	Yes			40.96666667			
+252	H1N1	0	1.17	F										Yes	Yes			41.52222222			
+253	H1N1	0	45	M										Yes	Yes			40		No	Yes
+254	H1N1	0	45	M										Yes	Yes			40.55555556		No	Yes
+255	H1N1	0	45	M										Yes	Yes			41.11111111		No	Yes
+256	H1N1	0	45	M										Yes	Yes			41.66666667		No	Yes
+257	H1N1	0	45	M										Yes	Yes			42.22222222		No	Yes
+258	H1N1	0	66	M										Yes	No			38.3		No	No
+259	H1N1	0	66	M										Yes	No			38.85555556		No	No
+260	H1N1	0	66	M										Yes	No			39.41111111		No	No
+261	H1N1	0	66	M										Yes	No			39.96666667		No	No
+262	H1N1	0	2.33	M										Yes	No			40.5			
+263	H1N1	0	2.33	M										Yes	No			41.05555556			
+264	H1N1	0	2.33	M										Yes	No			41.61111111			
+265	H1N1	0	2.33	M										Yes	No			42.16666667			
+266	H1N1	0	39	M										Yes	Yes			37		No	No
+267	H1N1	0	39	M										Yes	Yes			37.55555556		No	No
+268	H1N1	0	39	M										Yes	Yes			38.11111111		No	No
+269	H1N1	0	19	F										No	Yes	No					
+270	H1N1	0	46	F										No	Yes	Yes					
+271	H1N1	0		F																	
+272	H1N1	0	50	M										Yes	Yes	No					
+273	H1N1	0	6	M										Yes	Yes	Yes				No	No
+274	H1N1	0	72	M										Yes	Yes	No				No	No
+275	H1N1	0	0.67	F											Yes						
+276	H1N1	0	27	M																	
+277	H1N1	0	48	F																	
+278	H1N1	0	8	M																	
+279	H1N1	0	9	M																	
+280	H1N1	0	67	F																	
+281	H1N1	0	6	M																	
+282	H1N1	0	26	M																	
+283	H1N1	0	15	F																	
+284	H1N1	0	28	M																	
+285	H1N1	0	8	F																	
+286	H1N1	0	3	M																	
+287	H1N1	0	6	M																	
+288	H1N1	0	6	M																	
+289	H1N1	0	8	F																	
+290	H1N1	0	9	M																	
+291	H1N1	0	4	F																	
+292	H1N1	0	8	M																	
+293	H1N1	0	4	F																	
+294	H1N1	0	4	M																	
+295	H1N1	0	16	M																	
+296	H1N1	0	5	M																	
+297	H1N1	0	2	M																	
+298	H1N1	0	6	F																	
+299	H1N1	0	5	M																	
+300	H1N1	0	5	F																	
+301	H1N1	0	13	M																	
+302	H1N1	0	18	F																	
+303	H1N1	0	4	M																	
+304	H1N1	0	6	M																	
+305	H1N1	0	5	F																	
+306	H1N1	0	3	F																	
+307	H1N1	0	14	M																	
+308	H1N1	0	7	F																	
+309	H1N1	0	1	M																	
+310	H1N1	0	8	F																	
+311	H1N1	0	4	M																	
+312	H1N1	0	37	M																	
+313	H1N1	0	32	M																	
+314	H1N1	0	7	F																	
+315	H1N1	0	6	M																	
+316	H1N1	0	25	F																	
+317	H1N1	0	14	M																	
+318	H1N1	0	40	M																	
+319	H1N1	0	37	F																	
+320	H1N1	0	41	M																	
+321	H1N1	0	30	M																	
+322	H1N1	0	44	F																	
+323	H1N1	0	33	M																	
+324	H1N1	0	4	M																	
+325	H1N1	0	7	F																	
+326	H1N1	0	1	F																	
+327	H1N1	0	9	M																	
+328	H1N1	0	1	M																	
+329	H1N1	0	9	M																	
+330	H1N1	0	5	F																	
+331	H1N1	0	5	F																	
+332	H1N1	0	7	F																	
+333	H1N1	0	5	M																	
+334	H1N1	0	59	F																	
+335	H1N1	0	54	F																	
+336	H1N1	0	46	F																	
+337	H1N1	0	3	M																	
+338	H1N1	0	8	M																	
+339	H1N1	0	4	M																	
+340	H1N1	0	8	M																	
+341	H1N1	0	10	M																	
+342	H1N1	0	2	M																	
+343	H1N1	0	8	F																	
+344	H1N1	0	3	F																	
+345	H1N1	0	11	F																	
+346	H1N1	0	13	M																	
+347	H1N1	0	6	M																	
+348	H1N1	0	14	F																	
+349	H1N1	0	8	F																	
+350	H1N1	0	10	F																	
+351	H1N1	0	9	F																	
+352	H1N1	0	12	F																	
+353	H1N1	0	6	F																	
+354	H1N1	0	8	M																	
+355	H1N1	0	6	F																	
+356	H1N1	0	8	M																	
+357	H1N1	0	6	M																	
+358	H1N1	0	4	M																	
+359	H1N1	0	6	M																	
+360	H1N1	0	8	F																	
+361	H1N1	0	6	F																	
+362	H1N1	0	4	M																	
+363	H1N1	0	2	M																	
+364	H1N1	0	7	M																	
+365	H1N1	0	5	M																	
+366	H1N1	0	4	M																	
+367	H1N1	0	5	F																	
+368	H1N1	0	44	M																	
+369	H1N1	0	46	M																	
+370	H1N1	0	6	M																	
+371	H1N1	0	6	F																	
+372	H1N1	0	7	F																	
+373	H1N1	0	5	M																	
+374	H1N1	0	13	M																	
+375	H1N1	0	30	M																	
+376	H1N1	0	11	M																	
+377	H1N1	0	7	M																	
+378	H1N1	0	10	M																	
+379	H1N1	0	15	M																	
+380	H1N1	0	4	F																	
+381	H1N1	0	2	M																	
+382	H1N1	0	3	M																	
+383	H1N1	0	6	M																	
+384	H1N1	0	6	F																	
+385	H1N1	0	7	F																	
+386	H1N1	0	3	F																	
+387	H1N1	0	2	F																	
+388	H1N1	0	1	M																	
+389	H1N1	0	9	M																	
+390	H1N1	0	3	F																	
+391	H1N1	0	4	M																	
+392	H1N1	0	3	F																	
+393	H1N1	0	3	M																	
+394	H1N1	0	3	M																	
+395	H1N1	0	13	M																	
+396	H1N1	0	5	M																	
+397	H1N1	0	3	F																	
+398	H1N1	0	6	F																	
+399	H1N1	0	12	M																	
+400	H1N1	0	6	F																	
+401	H1N1	0	3	M																	
+402	H1N1	0	15	F																	
+403	H1N1	0	5	M																	
+404	H1N1	0	6	F																	
+405	H1N1	0	14	M																	
+406	H1N1	0	3	M																	
+407	H1N1	0	12	M																	
+408	H1N1	0	13	M																	
+409	H1N1	0	5	M																	
+410	H1N1	0	10	F																	
+411	H1N1	0	28	M																	
+412	H1N1	0	9	M																	
+413	H1N1	0	8	M																	
+414	H1N1	0	3	M																	
+415	H1N1	0	1	F																	
+416	H1N1	0	9	F																	
+417	H1N1	0	5	M																	
+418	H1N1	0	6	M																	
+419	H1N1	0	6	F																	
+420	H1N1	0	5	M																	
+421	H1N1	0	7	F																	
+422	H1N1	0	5	F																	
+423	H1N1	0	6	M																	
+424	H1N1	0	3	F																	
+425	H1N1	0	6	M																	
+426	H1N1	0	10	M																	
+427	H1N1	0	3	F																	
+428	H1N1	0	9	M																	
+429	H1N1	0	6	F																	
+430	H1N1	0	11	F																	
+431	H1N1	0	12	M																	
+432	H1N1	0	8	F																	
+433	H1N1	0	3	F																	
+434	H1N1	0	3	M																	
+435	H1N1	0	5	M																	
+436	H1N1	0	2	F																	
+437	H1N1	0	3	M																	
+438	H1N1	0	5	F																	
+439	H1N1	0	6	M																	
+440	H1N1	0	10	M																	
+441	H1N1	0	59	M																	
+442	H1N1	0	7	M																	
+443	H1N1	0	5	F																	
+444	H1N1	0	5	M																	
+445	H1N1	0	9	F																	
+446	H1N1	0	6	M																	
+447	H1N1	0	12	M																	
+448	H1N1	0	3	F																	
+449	H1N1	0	1	M																	
+450	H1N1	0	3	M																	
+451	H1N1	0	3	M																	
+452	H1N1	0	17	M																	
+453	H1N1	0	2	M																	
+454	H1N1	0	7	F																	
+455	H1N1	0	7	F																	
+456	H1N1	0	3	F																	
+457	H1N1	0	6	M																	
+458	H1N1	0	5	F																	
+459	H1N1	0	10	M																	
+460	H1N1	0	5	F																	
+461	H1N1	0	9	M																	
+462	H1N1	0	6	F																	
+463	H1N1	0	5	F																	
+464	H1N1	0	8	M																	
+465	H1N1	0	6	M																	
+466	H1N1	0	1	M																	
+467	H1N1	0	1	M																	
+468	H1N1	0	8	M																	
+469	H1N1	0	7	F																	
+470	H1N1	0	5	M																	
+471	H1N1	0	16	F																	
+472	H1N1	0	4	F																	
+473	H1N1	0	5	F																	
+474	H1N1	0	1	F																	
+475	H1N1	0	4	F																	
+476	H1N1	0	8	M																	
+477	H1N1	0	42	M																	
+478	H1N1	0	11	M																	
+479	H1N1	0	37	F																	
+480	H1N1	0	28	M																	
+481	H1N1	0	3	M																	
+482	H1N1	0	6	F																	
+483	H1N1	0	2	M																	
+484	H1N1	0	14	F																	
+485	H1N1	0	8	F																	
+486	H1N1	0	5	F																	
+487	H1N1	0	9	F																	
+488	H1N1	0	3	M																	
+489	H1N1	0	5	M																	
+490	H1N1	0	2	M																	
+491	H1N1	0	3	F																	
+492	H1N1	0	13	M																	
+493	H1N1	0	8	M																	
+494	H1N1	0	11	M																	
+495	H1N1	0	1	F																	
+496	H1N1	0	6	M																	
+497	H1N1	0	9	F																	
+498	H1N1	0	4	F																	
+499	H1N1	0	4	F																	
+500	H1N1	0	11	M																	
+501	H1N1	0	7	F																	
+502	H1N1	0	7	M																	
+503	H1N1	0	1	M																	
+504	H1N1	0	4	M																	
+505	H1N1	0	7	M																	
+506	H1N1	0	9	M																	
+507	H1N1	0	7	M																	
+508	H1N1	0	11	F																	
+509	H1N1	0	7	F																	
+510	H1N1	0	8	M																	
+511	H1N1	0	5	F																	
+512	H1N1	0	7	M																	
+513	H1N1	0	6	M																	
+514	H1N1	0	9	M																	
+515	H1N1	0	12	M																	
+516	H1N1	0	12	M																	
+517	H1N1	0	10	F																	
+518	H1N1	0	3	M																	
+519	H1N1	0	8	F																	
+520	H1N1	0	4	M																	
+521	H1N1	0	11	F																	
+522	H1N1	0	13	F																	
+523	H1N1	0	4	M																	
+524	H1N1	0	16	M																	
+525	H1N1	0	2	M																	
+526	H1N1	0	5	M																	
+527	H1N1	0	4	F																	
+528	H1N1	0	8	M																	
+529	H1N1	0	12	F																	
+530	H1N1	0	4	M																	
+531	H1N1	0	16	M																	
+532	H1N1	0	10	F																	
+533	H1N1	0	12	M																	
+534	H1N1	0	52	F																	
+535	H1N1	0	10	F																	
+536	H1N1	0	13	F																	
+537	H1N1	0	9	M																	
+538	H1N1	0	10	F																	
+539	H1N1	0	13	F																	
+540	H1N1	0	11	M																	
+541	H1N1	0	8	M																	
+542	H1N1	0	4	F																	
+543	H1N1	0	8	F																	
+544	H1N1	0	7	F																	
+545	H1N1	0	8	M																	
+546	H1N1	0	5	F																	
+547	H1N1	0	4	M																	
+548	H1N1	0	12	F																	
+549	H1N1	0	3	M																	
+550	H1N1	0	5	F																	
+551	H1N1	0	6	M																	
+552	H1N1	0	4	F																	
+553	H1N1	0	5	M																	
+554	H1N1	0	5	M																	
+555	H1N1	0	3	M																	
+556	H1N1	0	8	F																	
+557	H1N1	0	4	M																	
+558	H1N1	0	10	M																	
+559	H1N1	0	6	F																	
+560	H1N1	0	6	F																	
+561	H1N1	0	13	F																	
+562	H1N1	0	9	M																	
+563	H1N1	0	13	M																	
+564	H1N1	0	7	F																	
+565	H1N1	0	6	M																	
+566	H1N1	0	7	M																	
+567	H1N1	0	7	M																	
+568	H1N1	0	13	M																	
+569	H1N1	0	4	M																	
+570	H1N1	0	4	M																	
+571	H1N1	0	9	F																	
+572	H1N1	0	9	M																	
+573	H1N1	0	41	F																	
+574	H1N1	0	7	F																	
+575	H1N1	0	11	M																	
+576	H1N1	0	49	F																	
+577	H1N1	0	24	M																	
+578	H1N1	0	41	F																	
+579	H1N1	0	14	F																	
+580	H1N1	0	64	F																	
+581	H1N1	0	27	F									No	Yes	Yes	Yes	No	38	Yes		
+582	H1N1	0	59	F									Yes	Yes	Yes	No	No	38	Yes		
+583	H1N1	0	27	M									Yes	Yes	Yes	Yes	No	38.38888889	Yes		
+584	H1N1	0	9	F									No	Yes	Yes	Yes	No	40.22222222	Yes		
+585	H1N1	0	2	M									Yes	Yes	Yes	Yes	No	37.72222222	Yes		
+586	H1N1	0	10	M									No	Yes	Yes	Yes	Yes	38.11111111	Yes		
+587	H1N1	0	23	F									Yes	Yes	Yes	Yes	Yes	38.77777778	Yes		
+588	H1N1	0	13	M									No	No	Yes	Yes	No	37.88888889	No		
+589	H1N1	0	35	F									No	Yes	Yes	Yes	No	37	Yes		
+590	H1N1	0	1	F									No	Yes	Yes	Yes	No	38.77777778	Yes		
+591	H1N1	0	47	F									Yes	Yes	Yes	Yes	No	37.22222222	Yes		
+592	H1N1	0	27	M									Yes	Yes	Yes	No	No	37	Yes		
+593	H1N1	0	45	F									No	Yes	Yes	Yes	No	38.22222222	Yes		
+594	H1N1	0	51	M									No	Yes	Yes	Yes	No	37.77777778	Yes	No	No
+595	H1N1	0	6	M									Yes	Yes	No	No	No	39	Yes		
+596	H1N1	0	57	F									Yes	Yes	Yes	Yes	No	37.88888889	Yes		
+597	H1N1	0	13	F									Yes	Yes	Yes	Yes	No	38.66666667	Yes		
+598	H1N1	0	39	M									Yes	Yes	Yes	No	No	38.22222222	Yes		
+599	H1N1	0	56	F									Yes	Yes	Yes	No	No	38	No		
+600	H1N1	0	21	M									Yes	Yes	Yes	Yes	No	38.38888889	Yes	No	No
+601	H1N1	0	27	F									Yes	Yes	Yes	Yes	No	37.5	Yes		
+602	H1N1	0	5	M									Yes	Yes	Yes	No	No	38.38888889	Yes		
+603	H1N1	0	30	F									Yes	Yes	Yes	Yes	No	38	Yes	No	No
+604	H1N1	0	35	M									Yes	Yes	Yes	Yes	Yes	39.44444444	Yes	Yes	No
+605	H1N1	0	0.67	M									Yes	Yes	Yes	Yes	No	35.77777778	Yes		
+606	H1N1	0	8	M									No	Yes	Yes	No	No	38.11111111	Yes		
+607	H1N1	0	42	M									No	Yes	Yes	Yes	No	38.72222222	Yes		
+608	H1N1	0	6	M									Yes	Yes	Yes	Yes	No	38	Yes		
+609	H1N1	0	36	M									No	Yes	Yes	Yes	No	37.22222222	Yes		
+610	H1N1	0	48	M									No	Yes	Yes	Yes	No	37.27777778	Yes		
+611	H1N1	0	65	M									Yes	Yes	Yes	Yes	No	37.77777778	Yes		
+612	H1N1	0	22	M									No	Yes	Yes	Yes	No	37.77777778	Yes		
+613	H1N1	0	39	M									Yes	Yes	Yes	No	Yes	39.38888889	Yes		
+614	H1N1	0	36	F									Yes	Yes	Yes	Yes	No	37.27777778	Yes		
+615	H1N1	0	29	F									Yes	Yes	Yes	Yes	No	37.72222222	Yes	No	No
+616	H1N1	0	36	M									Yes	Yes	Yes	Yes	No	38.22222222	Yes	No	No
+617	H1N1	0	17	M									Yes	Yes	Yes	Yes	No	37.22222222	Yes	No	No
+618	H1N1	0	15	M									No	Yes	Yes	No	No	38.61111111	Yes		
+619	H1N1	0	29	F									No	Yes	Yes	No	No	37.38888889	Yes		
+620	H1N1	0	2	F									No	Yes	Yes	Yes	No	39.38888889	Yes		
+621	H1N1	0	20	F									Yes	Yes	Yes	Yes	No	39	Yes		
+622	H1N1	0	23	M									Yes	Yes	Yes	Yes	No	37.88888889	Yes		
+623	H1N1	0	6	M									No	No	Yes	No	No	38.38888889	Yes		
+624	H1N1	0	36	M									No	Yes	Yes	No	No	37.88888889	Yes		
+625	H1N1	0	26	M									Yes	Yes	Yes	Yes	No	38	Yes		
+626	H1N1	0	12	F									Yes	Yes	Yes	No	Yes	38	Yes		
+627	H1N1	0	1	M									No	Yes	Yes		Yes	37.38888889	Yes		
+628	H1N1	0	2	F									No	Yes	Yes	Yes	No	37.72222222	No		
+629	H1N1	0	22	F									Yes	Yes	Yes	Yes	Yes	38.38888889	Yes		
+630	H1N1	0	35	F									No	Yes	Yes	Yes	Yes	36	Yes		
+631	H1N1	0	6	M									No	Yes	No	Yes	No	38.61111111	Yes		
+632	H1N1	0	26	M									No	Yes	Yes	Yes	No	38.38888889	Yes		
+633	H1N1	0	2	F									No	Yes	Yes	Yes	Yes	39.27777778	No		
+634	H1N1	0	0.67	M										Yes	Yes			39	Yes		
+635	H1N1	0	2	F									No	Yes	Yes	No	No	38	Yes		
+636	H1N1	0	26	M									Yes	Yes	Yes	Yes	Yes	37.77777778	Yes		
+637	H1N1	0	5	M									Yes	Yes	Yes	Yes	No	37.16666667	Yes		
+638	H1N1	0	3	F									Yes	Yes	Yes	Yes	No	37.72222222	Yes		
+639	H1N1	0	32	F										Yes	No						
+640	H1N1	0	5	M										Yes	Yes	Yes					
+641	H1N1	0	15	M										Yes	Yes						
+642	H1N1	0	9	M										Yes	Yes	No					
+643	H1N1	0	12	F										Yes	Yes	Yes			Yes		
+644	H1N1	0	8	M										Yes	Yes	No			Yes		
+645	H1N1	0	10	F										Yes	Yes	No			Yes		
+646	H1N1	0	12	F										Yes	Yes	Yes			Yes		
+647	H1N1	0	11	M									No	Yes	Yes	Yes	No	37.6	No		
+648	H1N1	0	5	F									No	Yes	Yes	Yes	Yes	39	No		
+649	H1N1	0	8	M									No	Yes	Yes	Yes	No	39	No		
+650	H1N1	0	11	F									No	Yes	Yes	Yes	No	38.8	No		
+651	H1N1	0	7	M									No	Yes	Yes	Yes	No	38	No	No	No
+652	H1N1	0	11	F									No	Yes	Yes	Yes	No	36.9	No		
+653	H1N1	0	8	F									No	Yes	Yes	Yes	No	39.2	No		
+654	H1N1	0	11	M									No	Yes	Yes	Yes	No	38	No		
+655	H1N1	0	11	M									No	Yes	Yes	Yes	No	38	No		
+656	H1N1	0	4	M									No	Yes	Yes	No	No	38.4	No		
+657	H1N1	0	12	M									No	Yes	Yes	Yes	No	38.5	No		
+658	H1N1	0	8	M									No	Yes	Yes	Yes	No	38	No		
+659	H1N1	0	5	F									No	Yes	Yes	Yes	No	38.7	No		
+660	H1N1	0	6	M									No	Yes	Yes	Yes	No	38	No		
+661	H1N1	0	8	M									No	Yes	Yes	Yes	No	38	No		
+662	H1N1	0	4	F									No	Yes	Yes	Yes	No	37.3	No		
+663	H1N1	0	6	F									No	Yes	Yes	Yes	No	38.9	No		
+664	H1N1	0	7	M									No	Yes	Yes	Yes	No	36.5	No		
+665	H1N1	0	5	F									No	Yes	Yes	No	No	39.7	No		
+666	H1N1	0	13	M									No	Yes	Yes	Yes	No	38	No		
+667	H1N1	0	9	M									No	Yes	Yes	Yes	No	37.1	No		
+668	H1N1	0	9	F									No	Yes	Yes	Yes	No	38.3	No		
+669	H1N1	0	7	M									No	Yes	Yes	Yes	No	37.5	No		
+670	H1N1	0	11	M									No	Yes	Yes	No	No	36.9	No		
+671	H1N1	0	11	F									Yes	Yes	Yes	Yes	No	38.3	No		
+672	H1N1	0	13	F									No	Yes	Yes	Yes	No	37.9	No		
+673	H1N1	0	3	F									No	Yes	Yes	Yes	No	37.7	No		
+674	H1N1	0	8	M									No	Yes	Yes	Yes	No	37	No		
+675	H1N1	0	4	M									No	Yes	Yes	No	No	38.4	No		
+676	H1N1	0	10	M									No	Yes	No	Yes	Yes	37.4	Yes		
+677	H1N1	0	6	M									No	Yes	No	Yes	No	38.7	No		
+678	H1N1	0	4	M									No	Yes	Yes	No	No	38.5	No		
+679	H1N1	0	8	F									No	Yes	Yes	No	No	38.5	No		
+680	H1N1	0	13	F									No	Yes	Yes	Yes	No	38.5	No		
+681	H1N1	0	11	M									No	Yes	Yes	Yes	No	38.5	No		
+682	H1N1	0	3	M									No	Yes	Yes	No	No	37.3	No		
+683	H1N1	0	9	M									No	Yes	Yes	Yes	No	39	No		
+684	H1N1	0	8	M									No	Yes	Yes	No	No	39.7	No	No	No
+685	H1N1	0	11	M									No	Yes	Yes	No	No	39.9	No		
+686	H1N1	0	7	M									No	Yes	Yes	No	No	38	No		
+687	H1N1	0	10	F									No	Yes	Yes	Yes	No	39	No		
+688	H1N1	0	0.5	M										Yes	Yes	No		37	No		
+689	H1N1	0	2	M										Yes	Yes	No		38	No		
+690	H1N1	0	4	M										Yes	Yes	No		37	No	No	No
+691	H1N1	0	0.67	F										Yes	Yes	No		38	No		
+692	H1N1	0	8	F										Yes	Yes	Yes			No		
+693	H1N1	0	15	M										Yes	Yes	No			No		
+694	H1N1	0	4	M										Yes	Yes	Yes			No		
+695	H1N1	0	0.34	M										Yes	Yes	No			No		
+696	H1N1	0	0.34	F										Yes	Yes	No			No		
+697	H1N1	0	6	F										Yes	Yes	Yes			No		
+698	H1N1	0	3	M											Yes	No			No		
+699	H1N1	0	11	M										Yes	Yes	Yes			No		
+700	H1N1	0	26	M										Yes	Yes	Yes		38	No		
+701	H1N1	0	63	F										Yes	Yes	No		37	No	No	Yes
+702	H1N1	0	0.92	F										Yes	Yes	No		38.38888889	No		
+703	H1N1	0	27	M										Yes	No	Yes			No		
+704	H1N1	0	1	M										Yes	No	No		38.38888889	No		
+705	H1N1	0	7	M										Yes	Yes	No			No		
+706	H1N1	0	0.17	F										No	Yes	No		36	No		
+707	H1N1	0	0.42	M										Yes	Yes	No		38.44444444	No		
+708	H1N1	0	53	M										Yes	Yes	No			No		
+709	H1N1	0	31	F										Yes	No	Yes			No		
+710	H1N1	0	60	M										Yes	Yes	Yes			No		
+711	H1N1	0	11	F										Yes	Yes	Yes			No		
+712	H1N1	0	33	F										Yes	Yes	No			No		
+713	H1N1	0	15	M										Yes	Yes	No			No		
+714	H1N1	0	50	M										Yes	Yes	No			No		
+715	H1N1	0	14	F										Yes	Yes	Yes			No		
+716	H1N1	0	71	F										Yes	Yes	Yes			No		
+717	H1N1	0	3	M										Yes	Yes	Yes			No		
+718	H1N1	0	25	M										Yes	Yes	No			No		
+719	H1N1	0	23	F										Yes	Yes	Yes			No		
+720	H1N1	0	24	M											Yes	Yes			No		
+721	H1N1	0	6	M										Yes	Yes	No			No		
+722	H1N1	0	40	F											Yes	No			No		
+723	H1N1	0	4	M										Yes	Yes	Yes			No		
+724	H1N1	0	7	F										Yes	Yes	No			No		
+725	H1N1	0		F																	
+726	H1N1	0	0	M									Yes	Yes	Yes	Yes	No			No	No
+727	H1N1	0	0	F									Yes	No	Yes	No	No				
+728	H1N1	0	0	F									No	No	Yes	Yes	No				
+729	H1N1	0	0	F									No	No	Yes	No	No				
+730	H1N1	0	0	F									Yes	Yes	Yes	Yes	No				
+731	H1N1	0	0	M									No	No	No	No	No			No	No
+732	H1N1	0	0	F									Yes	Yes	Yes	Yes	Yes				
+733	H1N1	0	0	F									Yes	Yes	Yes	Yes	Yes				
+734	H1N1	0	0	F									Yes	Yes	Yes	Yes	Yes				
+735	H1N1	0	0	M									No	No	No	No	No			No	No
+736	H1N1	0	0	M									No	Yes	Yes	No	Yes				
+737	H1N1	0	0	M									No	Yes	Yes	No	Yes				
+738	H1N1	0	0	F									No	Yes	Yes	Yes	Yes				
+739	H1N1	0	0	F									Yes	No	Yes	Yes	No				
+740	H1N1	0	0	M									No	No	No	No	No			No	No
+741	H1N1	0	0	M									No	No	No	No	No			No	No
+742	H1N1	0	0	F									No	No	No	No	No				
+743	H1N1	0	0	M									No	No	No	No	No				
+744	H1N1	0	0	M									No	No	No	No	No				
+745	H1N1	0	0	M									No	No	No	No	No				
+746	H1N1	0	0	M									Yes	Yes	Yes	Yes	Yes				
+747	H1N1	0	0	F									No	No	No	No	No				
+748	H1N1	0	0	M									No	No	No	No	No			No	No
+749	H1N1	0	0	M									Yes	Yes	Yes	Yes	Yes				
+750	H1N1	0	0	M									No	Yes	Yes	Yes	Yes				
+751	H1N1	0	0	M									No	No	No	No	No				
+752	H1N1	0	0	M									Yes	No	Yes	No	No			No	No
+753	H1N1	0	0	M									Yes	No	Yes	No	No			No	No
+754	H1N1	0	0	F									No	No	Yes	No	Yes				
+755	H1N1	0	0	F									No	Yes	Yes	Yes	No				
+756	H1N1	0	0	F									No	Yes	Yes	Yes	No				
+757	H1N1	0	48	M									No	Yes	Yes	No	No	38.33333333	Yes		
+758	H1N1	0	4	F										Yes	Yes	Yes		39.61111111			
+759	H1N1	0	34	F										Yes	Yes	Yes		38.77777778			
+760	H1N1	0	22	M									Yes	Yes	Yes	Yes	Yes	38.16666667	Yes		
+761	H1N1	0	0	M										Yes	Yes	No		38.33333333			
+762	H1N1	0	30	F									No	No	Yes	Yes	Yes	37.38888889	Yes		
+763	H1N1	0	7	F									No	Yes	Yes	Yes	No	38.83333333	No		
+764	H1N1	0	26	M									No	Yes	Yes	Yes	Yes	37.88888889	Yes		
+765	H1N1	0	5	F									No	Yes	Yes	No	No	37.88888889	Yes		
+766	H1N1	0	41	M									No	Yes	Yes	Yes	No	39.38888889	Yes		
+767	H1N1	0	38	M									No	Yes	Yes	Yes	No	38.61111111	Yes		
+768	H1N1	0	49	M									No	Yes	Yes	No	No	37.72222222	Yes		
+769	H1N1	0	2	M									Yes	Yes	Yes	No		40.33333333			
+770	H1N1	0	34	M									Yes	Yes	Yes	Yes	No	38.05555556	Yes		
+771	H1N1	0	33	F									No	Yes	Yes	Yes	No	36.88888889	Yes		
+772	H1N1	0	30	F									No	Yes	Yes	Yes	No	38.77777778	Yes		
+773	H1N1	0	19	M									No	Yes	Yes	No	No	37.33333333	No		
+774	H1N1	0	52	F									No	Yes	Yes	Yes	No	38.66666667	Yes		
+775	H1N1	0	12	M										Yes	No	No		39.5			
+776	H1N1	0	0	M									No	Yes	Yes	No	No	36.94444444	No		
+777	H1N1	0	8	F									No	Yes	Yes	Yes	Yes	37.94444444	No		
+778	H1N1	0	13	M									No	Yes	Yes	Yes	Yes		No		
+779	H1N1	0	29	F									No	Yes	Yes	Yes	No	36.77777778	Yes		
+780	H1N1	0	23	M										Yes	Yes	Yes		38.94444444	Yes		
+781	H1N1	0	25	M									No	No	Yes	Yes	No		Yes		
+782	H1N1	0	31	M									No	Yes	Yes	Yes	No	37.77777778	Yes		
+783	H1N1	0	23	M									No	Yes	Yes	No	Yes	36.66666667	No		
+784	H1N1	0	4	M									Yes	Yes	Yes	No	Yes	37.11111111	No		
+785	H1N1	0	62	M									No	Yes	Yes	Yes	No	39.44444444	Yes		
+786	H1N1	0	39	F									No	No	Yes	Yes	No	37.83333333	Yes		
+787	H1N1	0	22	F									No	No	Yes	Yes	No	37.16666667	Yes		
+788	H1N1	0	33	M									No	Yes	Yes	Yes	No	37.61111111	Yes		
+789	H1N1	0	4	F									No	No	Yes	No	No	37.27777778	Yes		
+790	H1N1	0	29	M									No	No	Yes	Yes	No	37.61111111	Yes		
+791	H1N1	0	21	F									No	Yes	Yes	No	No	39.44444444	Yes		
+792	H1N1	0	13	M									No	Yes	Yes	Yes	No	38.11111111	Yes		
+793	H1N1	0	34	F									No	Yes	Yes	No	No	37.88888889	No		
+794	H1N1	0	57	M									No	Yes	Yes	Yes	No	37.11111111	Yes		
+795	H1N1	0	26	F									No	No	Yes	No	No	37.61111111	Yes		
+796	H1N1	0	19	F									No	No	Yes	Yes	No	36.94444444	Yes		
+797	H1N1	0	33	F										Yes	No	No		36.22222222			
+798	H1N1	0	24	M									No		Yes	Yes	Yes		No		
+799	H1N1	0	23	M											Yes	No			Yes		
+800	H1N1	0	7	M									No	Yes	Yes	No	Yes	37.83333333	Yes		
+801	H1N1	0	6	F									No	Yes	Yes	No	No	38.88888889	Yes		
+802	H1N1	0	25	F									No	Yes	Yes	No	No	36.94444444	Yes		
+803	H1N1	0	5	M									No	No	Yes	Yes	Yes	37.27777778	Yes		
+804	H1N1	0	14	M									No	Yes	Yes	Yes	No	38.61111111	Yes		
+805	H1N1	0	38	F									No	Yes	Yes	Yes	No	37.11111111	No		
+806	H1N1	0	20	F									No	Yes	Yes	Yes	Yes	38.33333333	Yes		
+807	H1N1	0	10	F									No	Yes	Yes	Yes	Yes	39.66666667	Yes		
+808	H1N1	0	27	M									No	Yes	Yes	Yes	No	39	Yes		
+809	H1N1	0	35	M									No	Yes	Yes	Yes	Yes	37.77777778	Yes		
+810	H1N1	0	34	F									No	Yes	Yes	Yes	No	37.77777778	Yes		
+811	H1N1	0	52	M									No	Yes	Yes	No	No	39.33333333	Yes		
+812	H1N1	0	26	F									No	Yes	Yes	Yes	Yes	37.77777778	Yes		
+813	H1N1	0	34	F									No	Yes	Yes	Yes	No	36.55555556	Yes		
+814	H1N1	0	28	M									No		Yes	Yes	No		Yes		
+815	H1N1	0	35	M									No	Yes	Yes	Yes	No	37.16666667	No		
+816	H1N1	0	2	M									No		No	No	No		No		
+817	H1N1	0	39	F									No	Yes	Yes	Yes	No	38.33333333	Yes		
+818	H1N1	0	34	M									No	Yes	Yes	Yes	No	38.66666667	Yes		
+819	H1N1	0	25	F									No		Yes	No	No		Yes		
+820	H1N1	0	36	F									Yes	No	Yes	No	Yes	37.16666667	Yes		
+821	H1N1	0	28	M										Yes	Yes	Yes	Yes		Yes		
+822	H1N1	0	33	M									No	Yes	Yes	Yes	No	38.88888889	Yes		
+823	H1N1	0	46	M									Yes	No	Yes	No	No	36.88888889	Yes		
+824	H1N1	0	52	M									No	No	Yes	Yes	No	36.5	Yes		
+825	H1N1	0	50	F									No		Yes	Yes	Yes		Yes		
+826	H1N1	0	48	F									No	No	Yes	No	No	37.27777778	Yes		
+827	H1N1	0	47	M											No	No					
+828	H1N1	0	46	M											No	No					
+829	H1N1	0	32	F									Yes	No	Yes	Yes	Yes	37.27777778	Yes		
+830	H1N1	0	42	M										No	Yes	Yes		37.22222222	Yes		
+831	H1N1	0	42	M									No	Yes	Yes	No	Yes	39.55555556	Yes		
+832	H1N1	0	27	M									No	Yes	Yes	Yes	Yes	37	Yes		
+833	H1N1	0	39	M									No	No	Yes	Yes	Yes	37.22222222	Yes		
+834	H1N1	0	37	F									No	Yes	Yes	Yes	No	37.72222222	Yes		
+835	H1N1	0	37	M											No	No					
+836	H1N1	0	38	M									No	No	Yes	Yes	No	37.33333333	Yes		
+837	H1N1	0	34	M											No	No					
+838	H1N1	0	19	M									No	Yes	Yes	Yes	No	38.33333333	No		
+839	H1N1	0	0	F									Yes	Yes	Yes	No	Yes	38.22222222	Yes		
+840	H1N1	0	30	M									No	Yes	Yes	No	No	38.27777778	Yes		
+841	H1N1	0	30	F									No	Yes	Yes	No	No	38.38888889	Yes		
+842	H1N1	0	29	M									No	Yes	Yes	Yes	No	38.22222222	Yes		
+843	H1N1	0	8	F									No	Yes	Yes	No	Yes	39.22222222	Yes		
+844	H1N1	0	28	M									No	Yes	Yes	Yes	No	37.16666667	Yes		
+845	H1N1	0	29	M										Yes	Yes	Yes	Yes	36.61111111	Yes		
+846	H1N1	0	26	F									No	Yes	Yes	Yes	No	38.44444444	Yes		
+847	H1N1	0	22	M									No	Yes	Yes	Yes	No	38.55555556	Yes		
+848	H1N1	0	25	F									Yes	Yes	Yes	Yes	Yes		Yes		
+849	H1N1	0	25	M									No	Yes	No	Yes	No	37.05555556	Yes		
+850	H1N1	0	21	M										Yes	Yes	Yes		38.22222222	Yes		
+851	H1N1	0	19	M											No	No					
+852	H1N1	0	19	M											No	No					
+853	H1N1	0	19	M											No	No					
+854	H1N1	0	18	M											No	No					
+855	H1N1	0	18	M											No	No					
+856	H1N1	0	18	M											No	No					
+857	H1N1	0	13	M									No	Yes	Yes	Yes	No	38.55555556	Yes		
+858	H1N1	0	31	M									Yes	No	Yes	Yes	Yes	36.88888889	No		
+859	H1N1	0	44	M										Yes	Yes	No		39.55555556	Yes		
+860	H1N1	0	21	M									No	Yes	Yes	Yes	No	38.94444444	No		
+861	H1N1	0	27	F									No	No	Yes	Yes	No	37.27777778	Yes		
+862	H1N1	0	75	M									No	Yes	Yes	Yes	No	38.11111111	Yes		
+863	H1N1	0	11	M									No	Yes	Yes	Yes	Yes	38.77777778	Yes		
+864	H1N1	0	8	M									No	Yes	Yes	Yes	Yes	37.83333333	Yes		
+865	H1N1	0	7	F									No	No	Yes	Yes	No	37.33333333	No		
+866	H1N1	0	7	M										Yes	Yes	No		37.66666667			
+867	H1N1	0	25	M									No	No	Yes	Yes	No	37.38888889	Yes		
+868	H1N1	0	7	F									No	Yes	Yes	Yes	No	38.44444444	No		
+869	H1N1	0	5	M									No	Yes	Yes	Yes	No	39.33333333	Yes		
+870	H1N1	0	8	M									No	Yes	Yes	Yes	No	37.38888889	Yes		
+871	H1N1	0	0	M									No	Yes	Yes	No	No	38.27777778	Yes		
+872	H1N1	0	2	F										Yes	No	No		39.22222222			
+873	H1N1	0	57	M									No	No	Yes	Yes	No	37.94444444	No		
+874	H1N1	0	34	F									No	Yes	Yes	Yes	No	37.33333333	Yes		
+875	H1N1	0	7	M									No	Yes	Yes	Yes	Yes	39.61111111	Yes		
+876	H1N1	0	48	M										Yes	Yes	No		37			
+877	H1N1	0	0	M									No	Yes	Yes	No	No	36.88888889	No		
+878	H1N1	0	37	F									No	No	Yes	No	No	37.44444444	Yes		
+879	H1N1	0	51	F									Yes	No	Yes	No	No	37.94444444	Yes		
+880	H1N1	0	37	F									No	Yes	Yes	Yes	No	37.11111111	Yes		
+881	H1N1	0	14	F										Yes	Yes	No	Yes	37.38888889	Yes		
+882	H1N1	0	28	M									No	No	Yes	Yes	Yes	37.22222222	Yes		
+883	H1N1	0	28	F									No	Yes	Yes	Yes	No	36.94444444	Yes		
+884	H1N1	0	42	F									Yes	Yes	Yes	No	No	37.05555556	Yes		
+885	H1N1	0	35	M									No	Yes	Yes	Yes	No	38.33333333	Yes		
+886	H1N1	0	37	M									No	Yes	Yes	Yes	No	38.94444444	Yes		
+887	H1N1	0	0	F									Yes	Yes	Yes	No	No	37.88888889	No		
+888	H1N1	0	25	F									No	Yes	Yes	Yes	No	38.72222222	Yes		
+889	H1N1	0	7	F									Yes	No	Yes	Yes	Yes	36.66666667	No		
+890	H1N1	0	23	M									Yes	Yes	Yes	No	Yes	38.83333333	Yes		
+891	H1N1	0	27	F									No	Yes	Yes	Yes	Yes	38.77777778	Yes		
+892	H1N1	0	52	F									No	Yes	Yes	Yes	No	37.27777778	Yes		
+893	H1N1	0	16	M									No	Yes	Yes	Yes	No	37	No		
+894	H1N1	0	27	M									No	Yes	Yes	No	No	36.77777778	Yes		
+895	H1N1	0	2	M									No	No	Yes	No	No	36.66666667	No		
+896	H1N1	0	45	F									No	Yes	Yes	Yes	No	37.66666667	Yes		
+897	H1N1	0	26	M									No	Yes	Yes	Yes	No	38.05555556	Yes		
+898	H1N1	0	30	F									No	Yes	Yes	Yes	Yes	39.55555556	Yes		
+899	H1N1	0	16	M									No	No	Yes	Yes	Yes	37.11111111	No		
+900	H1N1	0	23	M									No	No	Yes	Yes	No	37.66666667	Yes		
+901	H1N1	0	21	M									No	Yes	Yes	Yes	No	40.16666667	Yes		
+902	H1N1	0	28	M									No	Yes	Yes	Yes	No		Yes		
+903	H1N1	0	33	F									No	Yes	Yes	No	No	38.88888889	Yes		
+904	H1N1	0	22	F										Yes	Yes	Yes					
+905	H1N1	0	39	M									No	Yes	Yes	Yes	No	37.61111111	Yes		
+906	H1N1	0	66	M									No	No	No	No	No	36.33333333	No		
+907	H1N1	0	44	M									No	No	Yes	Yes	No	36.66666667	No		
+908	H1N1	0	3	M									No	Yes	Yes	Yes	No	38.55555556	Yes		
+909	H1N1	0	14	M										Yes	Yes	Yes		38.22222222	Yes		
+910	H1N1	0	33	M									No	Yes	Yes	Yes	Yes	37.66666667	Yes		
+911	H1N1	0	37	M									No	No	Yes	Yes	No	38	Yes		
+912	H1N1	0	10	F									No	Yes	Yes	No	No	36.83333333	Yes		
+913	H1N1	0	34	M										Yes	Yes	Yes		37.72222222	Yes		
+914	H1N1	0	56	F									No	Yes	Yes	Yes	No	38.11111111	No		
+915	H1N1	0	33	F									Yes	Yes	Yes	Yes	Yes	38.22222222	Yes		
+916	H1N1	0	36	M									Yes	Yes	Yes	Yes	No	36.66666667	Yes		
+917	H1N1	0	41	M										Yes	Yes	Yes	Yes	39.11111111	Yes		
+918	H1N1	0	54	F									No	Yes	Yes	Yes	No	38.05555556	Yes		
+919	H1N1	0	53	M									Yes	Yes	Yes	No	Yes	38.44444444	Yes		
+920	H1N1	0	22	M									No	Yes	Yes	No	Yes	39.33333333	Yes		
+921	H1N1	0	3	M										Yes	Yes	Yes		37.11111111			
+922	H1N1	0	37	M									No	No	Yes	No	Yes	37.77777778	Yes		
+923	H1N1	0	59	F									No	Yes	Yes	No	No	38.22222222	Yes		
+924	H1N1	0	46	M									No	No	Yes	Yes	No		Yes		
+925	H1N1	0	39	M									Yes	No	Yes	No	No	37.05555556	Yes		
+926	H1N1	0	31	F									No	No	Yes	Yes	No	37.77777778	Yes		
+927	H1N1	0	14	M									No	Yes	Yes	Yes	Yes	37.94444444	Yes		
+928	H1N1	0	56	M									No	Yes	Yes	Yes	No	38.5	Yes		
+929	H1N1	0	30	M									No	Yes	Yes	No	No	39.66666667	Yes		
+930	H1N1	0	42	M									No	No	Yes	Yes	No	37.55555556	Yes		
+931	H1N1	0	32	F									No	Yes	Yes	No	Yes	38.27777778	Yes		
+932	H1N1	0	35	M									No	No	Yes	No	No	37.77777778	Yes		
+933	H1N1	0	20	M									No	Yes	Yes	Yes	No	38.11111111	Yes		
+934	H1N1	0	53	M									No	No	Yes	No	No		Yes		
+935	H1N1	0	5	M									No	No	Yes	No	Yes	36.38888889	Yes		
+936	H1N1	0	44	F									No	Yes	Yes	No	No	39.5	Yes		
+937	H1N1	0	15	F									No	Yes	Yes	Yes	No	36.61111111	Yes		
+938	H1N1	0	50	M									No	Yes	Yes	Yes	Yes	38.38888889	Yes		
+939	H1N1	0	31	M									No	Yes	Yes	Yes	Yes	38.66666667	Yes		
+940	H1N1	0	27	F									No	Yes	Yes	Yes	No	36.72222222	Yes		
+941	H1N1	0	32	M									No	Yes	Yes	No	No	37.11111111	Yes		
+942	H1N1	0	8	M									No	Yes	Yes	Yes	No	37.77777778	Yes		
+943	H1N1	0	20	F									No	Yes	Yes	Yes	No	37.44444444	Yes		
+944	H1N1	0	20	M									Yes	Yes	Yes	No	Yes	38.44444444	Yes		
+945	H1N1	0	27	M									No	Yes	Yes	Yes	No	39.16666667	Yes		
+946	H1N1	0	30	F									No	Yes	Yes	Yes	No	37.11111111	Yes		
+947	H1N1	0	30	M									No	No	Yes	Yes	No	37.94444444	Yes		
+948	H1N1	0	3	M										Yes	Yes	Yes		38.61111111			
+949	H1N1	0	33	M									No	Yes	Yes	No	No	37.66666667	Yes		
+950	H1N1	0	32	F									Yes	No	Yes	Yes	Yes	36.72222222	Yes		
+951	H1N1	0	10	F									No	Yes	Yes	Yes	Yes	38.55555556	Yes		
+952	H1N1	0	21	M									No	No	Yes	Yes	No	37.11111111	Yes		
+953	H1N1	0	48	M									No	No	Yes	Yes	No	37.77777778	Yes		
+954	H1N1	0	12	M									Yes	Yes	Yes	Yes	Yes	37.72222222	Yes		
+955	H1N1	0	9	M									No	No	Yes	Yes	No	37.61111111	Yes		
+956	H1N1	0	25	M									No	Yes	Yes	Yes	Yes	39.88888889	Yes		
+957	H1N1	0	4	F									No	Yes	Yes	No	No	38.55555556	Yes		
+958	H1N1	0	17	M									No	Yes	Yes	No	No	38.88888889	Yes		
+959	H1N1	0	13	M									No	Yes	Yes	Yes	No	38.88888889	No		
+960	H1N1	0	46	M									Yes	Yes	Yes	Yes	No	38.88888889	Yes		
+961	H1N1	0	1	F									No	Yes	Yes	No	No	37.77777778	No		
+962	H1N1	0	27	F									No	Yes	Yes	Yes	No	38.61111111	Yes		
+963	H1N1	0	54	F									No	Yes	Yes	No	No	39.44444444	No		
+964	H1N1	0	42	F									No	No	Yes	Yes	No	37.33333333	Yes		
+965	H1N1	0	35	M									No	Yes	Yes	Yes	No	39.38888889	Yes		
+966	H1N1	0	42	F									Yes	Yes	Yes	Yes	No	38	Yes		
+967	H1N1	0	32	F									No	Yes	Yes	Yes	No	38.61111111	Yes		
+968	H1N1	0	63	F										Yes	Yes	Yes			Yes		
+969	H1N1	0	23	M									No	Yes	Yes	No	No	38.16666667	Yes		
+970	H1N1	0	26	F									No	Yes	Yes	Yes	No	38.16666667	Yes		
+971	H1N1	0	41	F									No	Yes	Yes	Yes	No	36.66666667	Yes		
+972	H1N1	0	39	F									Yes	Yes	Yes	Yes	No	38.5	Yes		
+973	H1N1	0	20	F									No		Yes	Yes	No		Yes		
+974	H1N1	0	29	M									Yes	Yes	Yes	Yes	No	36.72222222	Yes		
+975	H1N1	0	36	M									No	No	Yes	Yes	No	37.05555556	Yes		
+976	H1N1	0	29	M									No		Yes	Yes	No		Yes		
+977	H1N1	0	36	M									No	Yes	Yes	No	No	39.27777778	Yes		
+978	H1N1	0	5	M									Yes	Yes	Yes	No	No	38.72222222	Yes		
+979	H1N1	0	60	M									No	No	Yes	Yes	No	37	Yes		
+980	H1N1	0	25	M									No	Yes	Yes	Yes	No	38.11111111	Yes		
+981	H1N1	0	35	F									No	No	Yes	No	No	37.83333333	No		
+982	H1N1	0	1	F									No	Yes	Yes	Yes	No	38.77777778	Yes		
+983	H1N1	0	7	F									Yes	Yes	Yes	No	No	37.88888889	Yes		
+984	H1N1	0	4	F										Yes	Yes	Yes		38.38888889			
+985	H1N1	0	29	F									No	No	Yes	Yes	No	37.22222222	Yes		
+986	H1N1	0	14	M									No	Yes	Yes	No	No	36.5	Yes		
+987	H1N1	0	46	F									No	No	Yes	Yes	No	37.44444444	Yes		
+988	H1N1	0	14	F									No	Yes	Yes	Yes	No	37.5	Yes		
+989	H1N1	0	14	F									No	Yes	Yes	Yes	No	39.16666667	Yes		
+990	H1N1	0	38	M									No	Yes	Yes	Yes	No	39.38888889	Yes		
+991	H1N1	0	60	F									No	Yes	Yes	Yes	No	38	Yes		
+992	H1N1	0	48	M									No	Yes	Yes	Yes	No	37.16666667	Yes		
+993	H1N1	0	38	M									Yes	Yes	Yes	No	No	36.66666667	Yes		
+994	H1N1	0	29	F									No	Yes	Yes	Yes	Yes	36.5	Yes		
+995	H1N1	0	24	M									No	Yes	Yes	No	No	38.33333333	Yes		
+996	H1N1	0	15	M									No	Yes	Yes	Yes	No	38	Yes		
+997	H1N1	0	31	M									No	No	Yes	Yes	No	37.77777778	Yes		
+998	H1N1	0	21	M									Yes	Yes	Yes	Yes	No	38.72222222	Yes		
+999	H1N1	0	27	F										No	Yes	Yes		37			
+1000	H1N1	0	6	F									No	No	Yes	Yes	Yes	37.77777778	No		
+1001	H1N1	0	9	F									No	No	Yes	Yes	No	37.33333333	Yes		
+1002	H1N1	0	37	M									Yes	No	Yes	Yes	No	37.77777778	Yes		
+1003	H1N1	0	4	M									No	Yes	Yes	No	No	39	No		
+1004	H1N1	0	35	F									No	Yes	Yes	Yes	No	36.77777778	Yes		
+1005	H1N1	0	21	F									No	Yes	Yes	Yes	No	37.77777778	No		
+1006	H1N1	0	4	M									No	Yes	Yes	No	No	38.55555556	Yes		
+1007	H1N1	0	37	F									No	Yes	Yes	Yes	No	39.16666667	No		
+1008	H1N1	0	22	M									No	Yes	Yes	Yes	No	38.66666667	No		
+1009	H1N1	0	10	M									Yes	Yes	Yes	Yes	Yes	38	Yes		
+1010	H1N1	0	40	M										Yes	Yes	Yes		38.22222222	Yes		
+1011	H1N1	0	7	F									No	Yes	Yes	No	No	37.66666667	Yes		
+1012	H1N1	0	42	F									No	No	Yes	Yes	No	37.77777778	Yes		
+1013	H1N1	0	7	F									No	No	Yes	No	No	37.22222222	Yes		
+1014	H1N1	0	35	M									No	Yes	Yes	No	No	37.44444444	Yes		
+1015	H1N1	0	41	F									No	Yes	Yes	Yes	No	38.05555556	Yes		
+1016	H1N1	0	33	F									Yes	Yes	Yes	Yes	Yes	36.38888889	Yes		
+1017	H1N1	0	5	F									No	Yes	Yes	Yes	No	38.16666667	No		
+1018	H1N1	0	26	F									No	No	Yes	No	Yes	37.16666667	Yes		
+1019	H1N1	0	54	M									No	Yes	Yes	Yes	No	38.33333333	Yes		
+1020	H1N1	0	26	F									No	Yes	No	Yes	No	36.61111111	Yes		
+1021	H1N1	0	7	M									No	Yes	Yes	Yes	No	37	Yes		
+1022	H1N1	0	26	F									No	Yes	Yes	No	No	38.33333333	Yes		
+1023	H1N1	0	21	F										Yes	Yes	Yes		38.05555556			
+1024	H1N1	0	22	F									No	Yes	Yes	Yes	No	38.66666667	Yes		
+1025	H1N1	0	25	F									Yes	Yes	Yes	No	No	36.72222222	Yes		
+1026	H1N1	0	27	F									No	Yes	Yes	Yes	No	37	Yes		
+1027	H1N1	0	45	M									No	Yes	Yes	Yes	No	38.11111111	Yes		
+1028	H1N1	0	29	M									Yes	Yes	Yes	Yes	No	38.72222222	Yes		
+1029	H1N1	0	34	M									No	Yes	Yes	No	No	38.22222222	Yes		
+1030	H1N1	0	35	M									No	Yes	Yes	Yes	No	38.33333333	Yes		
+1031	H1N1	0	27	F									No	No	Yes	Yes	No	36.66666667	Yes		
+1032	H1N1	0	25	M										Yes	Yes	Yes		36.88888889			
+1033	H1N1	0	35	F									No	No	Yes	No	Yes	38	Yes		
+1034	H1N1	0	43	F									No	Yes	Yes	Yes	No	37.66666667	Yes		
+1035	H1N1	0	30	M									No	Yes	Yes	Yes	No	39.11111111	Yes		
+1036	H1N1	0	17	F									No	Yes	Yes	Yes	No	39.44444444	Yes		
+1037	H1N1	0	43	F									No	Yes	Yes	Yes	No	38.27777778	Yes		
+1038	H1N1	0	55	M									No		Yes	Yes	No		Yes		
+1039	H1N1	0	50	F									No	Yes	Yes	Yes	Yes	39	Yes		
+1040	H1N1	0	38	F										No	Yes	Yes	Yes	37	Yes		
+1041	H1N1	0	29	M									No	Yes	Yes	Yes	No	39.5	Yes		
+1042	H1N1	0	47	M									No	No	Yes	No	No	37.27777778	Yes		
+1043	H1N1	0	31	M									No	No	Yes	Yes	No	37.83333333	Yes		
+1044	H1N1	0	2	M									No	Yes	Yes	Yes	No	37.83333333	Yes		
+1045	H1N1	0	13	M									No	Yes	Yes	Yes	No	37.5	Yes		
+1046	H1N1	0	7	M									Yes	Yes	Yes	Yes	Yes	36.44444444	Yes		
+1047	H1N1	0	15	F									No	No	Yes	Yes	Yes	36.72222222	Yes		
+1048	H1N1	0	35	F									No	Yes	Yes	Yes	No	38.44444444	Yes		
+1049	H1N1	0	31	M									No	Yes	Yes	Yes	No	36.72222222	Yes		
+1050	H1N1	0	41	F									No	Yes	Yes	Yes	Yes				
+1051	H1N1	0	28	F		high	21.6	high 	0.67	low	Pos									No	No
+1052	H1N1	0	39	F		high	14.8	high 	1.73	normal	Pos									No	No
+1053	H1N1	0	24	F		high	4.5	normal	0.44	low	Pos									No	No
+1054	H1N1	0	27	F		high	3.2	low	0.41	low	Pos									No	No
+1055	H1N1	0	25	F		low	2.5	low	1.22	normal	Pos									No	No
+1056	H1N1	0	81	F		high	7.3	normal	0.3	low	Pos									No	No
+1057	H1N1	0	33	F		high	7.5	normal	0.8	normal	Pos									No	No
+1058	H1N1	0	17	F		normal	0.5	low	0.22	low	Pos									No	No
+1059	H1N1	0	19	F		high	5	normal	0.67	low	Pos									No	No
+1060	H1N1	0	26	F		normal	3.9	low	0.73	low	Pos									No	No
+1061	H1N1	0	47	F		low	3.8	low	1.66	normal	Pos									No	No
+1062	H1N1	0	27	F		high	10.4	normal	0.13	low	Pos									No	No
+1063	H1N1	0	48	M		high	2.5	low	0.34	low	Pos									No	No
+1064	H1N1	0	46	M		high	2.6	low	0.3	low	Pos									No	No
+1065	H1N1	0	24	M		high	9.2	normal	0.82	normal	Pos									No	No
+1066	H1N1	0	38	M		high	3.5	low	0.35	low	Pos									No	No
+1067	H1N1	0	60	M		high	4.2	low	0.25	low	Pos									No	No
+1068	H1N1	0	76	M		high	6.8	normal	0.33	low	Pos									No	No
+1069	H1N1	0	31	M		high	4.1	low	0.59	low	Pos									No	No
+1070	H1N1	0	44	M		normal	3.1	low	1.12	normal	Pos									No	No
+1071	H1N1	0	47	M		low	4.6	normal	2.46	normal	Pos									No	No
+1072	COVID19	1	0.83	M		normal		normal		high	Pos										
+1073	COVID19	1	36	M		high		high 		low	Pos										
+1074	COVID19	1	49	F																	
+1075	COVID19	1	61	M								Pos									
+1076	COVID19	1	32	M																	
+1077	COVID19	1	81										Yes	No	No	Yes				No	No
+1078	COVID19	1	4	M	1.93	normal			3.13	normal	Pos										
+1079	COVID19	1	4	F	3.31	normal	2.63	low			Pos										
+1080	COVID19	1	45	M							Pos			Yes	Yes						
+1081	COVID19	1																		No	No
+1082	COVID19	1	25	F							neg		No	No	No	Yes	No				
+1083	COVID19	1		M					0.87	low	Pos 	Neg									
+1084	COVID19	1		F	1.73	normal			0.81	low	Pos 	Neg								No	No
+1085	COVID19	1	64	M							Pos 	Neg									
+1086	COVID19	1	28	F										Yes	No	No					
+1087	COVID19	1	24	F										Yes	No	No					
+1088	COVID19	1	33	F										No	Yes	No					
+1089	COVID19	1	29	F										Yes	No	No					
+1090	COVID19	1	35	F										Yes	No	No					
+1091	COVID19	1	31	F										Yes	No	Yes					
+1092	COVID19	1	30	F										No	No	No					
+1093	COVID19	1	36	F										Yes	Yes	No					
+1094	COVID19	1	26	F										Yes	No	No					
+1095	COVID19	1	32	F										Yes	No	No					
+1096	COVID19	1	30	F										Yes	No	No					
+1097	COVID19	1	22	F										No	No	No					
+1098	COVID19	1	30	F										Yes	No	No					
+1099	COVID19	1	35	F							Pos	Neg	Yes	Yes	Yes	Yes				No	No
+1100	COVID19	1	57	M					0.43	low		Neg		Yes	Yes						
+1101	COVID19	1	57	F					0.94	low		Neg		Yes	Yes						
+1102	COVID19	1	0.83	M		normal		normal 		high											
+1103	COVID19	1	36	M		high		high 		low											
+1104	COVID19	1	32	M	57.2	high	4.23	low	30.3	high	Pos			Yes	No					No	No
+1105	COVID19	1	19	M	57	high	6.48	normal	30.6	high	Pos			Yes	Yes						
+1106	COVID19	1	63	M	50	high	4.4	low	24.5	high	Pos			Yes	Yes						
+1107	COVID19	1	63	F	93	high	6.84	normal	6.1	high	Pos			Yes	Yes						
+1108	COVID19	1	54	M									No	Yes	Yes					No	No
+1109	COVID19	1	35	M		high		normal		low	Pos									No	No
+1110	COVID19	1	39	M		normal		normal		normal			No	Yes		Yes					
+1111	COVID19	1																			
+1112	COVID19	1																			
+1113	COVID19	1	0.25	M											Yes						
+1114	COVID19	1	42																		
+1115	COVID19	1	46	F			4.2	low	1.49	normal		Pos	No	Yes	Yes	No				No	No
+1116	COVID19	1	31	F							Pos		Yes	No	No 	No					
+1117	COVID19	1	60	M	3.31	normal						Pos	No	Yes	Yes	No					
+1118	COVID19	1	0.75	F										Yes							
+1119	COVID19	1	0.917	F										Yes							
+1120	COVID19	1	0.66	F										No							
+1121	COVID19	1	0.83	M																	
+1122	COVID19	1	0.58	F										Yes							
+1123	COVID19	1	0.156	F											Yes						
+1124	COVID19	1	0.25	F											Yes						
+1125	COVID19	1	0.306	F										Yes							
+1126	COVID19	1	0.5	M																	
+1127	COVID19	1	34	M								Neg		Yes							
+1128	COVID19	1	34	M								Pos		Yes						No	Yes
+1129	COVID19	1	43	M								Pos	Yes	Yes					Yes		
+1130	COVID19	1	36	F										Yes	Yes						
+1131	COVID19	1	49	F										Yes					Yes		
+1132	COVID19	1	20	F										Yes	Yes	Yes			Yes		
+1133	COVID19	1	45	M										Yes	Yes						
+1134	COVID19	1	41	F										No	Yes				Yes		
+1135	COVID19	1	15	M										Yes				37.9			
+1136	COVID19	1	10	M				low			Pos				Yes						
+1137	COVID19	1	7	M				low						Yes							
+1138	COVID19	1	10	F				normal			Pos			Yes							
+1139	COVID19	1	10	F				low													
+1140	COVID19	1	4	F				low													
+1141	COVID19	1	6	F				normal													
+1142	COVID19	1	14	M				normal						Yes							
+1143	COVID19	1	5	F				normal						Yes							
+1144	COVID19	1	9	F				normal													
+1145	COVID19	1	12	F				normal													
+1146	COVID19	1	5	M				low													
+1147	COVID19	1	7	F				low						Yes							
+1148	COVID19	1	8	M				normal													
+1149	COVID19	1	7	F				low													
+1150	COVID19	1	4	F				low													
+1151	COVID19	1	51	M										Yes	Yes	Yes					
+1152	COVID19	1	52	F								Pos		Yes		Yes				No	Yes
+1153	COVID19	1	50	M								Pos									
+1154	COVID19	1	46	F		normal				normal	Pos			Yes							
+1155	COVID19	1	1	M		low		normal		low	Pos	Pos		Yes							
+1156	COVID19	1	20	F	3.62	normal	5.65	normal	1.55	normal											
+1157	COVID19	1		F	6.89	normal	7.97	normal	0.53	low											
+1158	COVID19	1		F	2.64	normal	4.59	normal	1.65	normal											
+1159	COVID19	1		F	2.1	normal	3.29	low	0.91	low											
+1160	COVID19	1		F	2.89	normal	3.44	low	0.46	low											
+1161	COVID19	1		M	8.21	high	9.43	normal	0.69	low											
+1162	COVID19	1	54	M			7.2	normal						Yes							
+1163	COVID19	1	47	M			5.11	normal		high	Pos			Yes	Yes						
+1164	COVID19	1	44	M									Yes	Yes							
+1165	COVID19	1	56	M										Yes			Yes				
+1166	COVID19	1	36	M										Yes	Yes						
+1167	COVID19	1	69	M										Yes							
+1168	COVID19	1	78	M											Yes						
+1169	COVID19	1	66	F											Yes						
+1170	COVID19	1	50	F										Yes							
+1171	COVID19	1	28	F											Yes						
+1172	COVID19	1	76	F											Yes						
+1173	COVID19	1	70	F										Yes							
+1174	COVID19	1	65	M											Yes						
+1175	COVID19	1	58	F										Yes	Yes						
+1176	COVID19	1	60	M										Yes	Yes						
+1177	COVID19	1	60	M										Yes	Yes						
+1178	COVID19	1	60	F																	
+1179	COVID19	1	49	F										Yes							
+1180	COVID19	1	38	F											Yes						
+1181	COVID19	1	26	M																	
+1182	COVID19	1	47	M	7.8	normal	8.7	normal	0.4	low	Pos			Yes	Yes	No	Yes			No	Yes
+1183	COVID19	1	48	M										Yes	Yes						
+1184	COVID19	1	31	M										Yes	Yes						
+1185	COVID19	1	30	F										Yes	Yes						
+1186	COVID19	1	58	M																	
+1187	COVID19	1	44	F																	
+1188	COVID19	1	88	M			7.16	normal	1.19	normal	Pos			Yes	Yes					No	No
+1189	COVID19	1	75	F										Yes							
+1190	COVID19	1	65	F					0.88	low				Yes							
+1191	COVID19	1	69	M										Yes							
+1192	COVID19	1	0.0465	M			7.66	normal		high	Pos		Yes	Yes	Yes		Yes				
+1193	COVID19	1	35	F									Yes	Yes	Yes						
+1194	COVID19	1	55	M											Yes	Yes					
+1195	COVID19	1	52	M		high		normal		low	Pos		No	Yes	No						
+1196	COVID19	1	63	M		normal		normal		normal	Pos			Yes	Yes						
+1197	COVID19	1	48	M				normal		low	Pos				No						
+1198	COVID19	1	47	M		normal		normal		low	Pos			Yes	No						
+1199	COVID19	1	60	F		normal		normal		normal	Neg			No	No					No	No
+1200	COVID19	1	58	F							Inconclusive			No	No					No	No
+1201	COVID19	1	45	F		high				low	Pos			Yes	Yes						
+1202	COVID19	1	32	M						high	Pos			Yes	Yes						
+1203	COVID19	1	47	F	2.62	normal	3.87	low	0.88	low				Yes	Yes					No	No
+1204	COVID19	1	50	M	3.67	normal	4.89	normal	0.81	low				Yes	Yes					No	No
+1205	COVID19	1	66	F	3.05	normal	4.49	low	0.95	low				Yes	Yes					No	No
+1206	COVID19	1	39	M	2.03	normal	3.39	low	0.84	low				Yes	Yes					No	No
+1207	COVID19	1	49	F	6.4	normal	9.12	normal	1.92	normal										No	No
+1208	COVID19	1	38	M	0.99	low			0.89	low	Pos			Yes	Yes	Yes					
+1209	COVID19	1	38	F	2.07	normal			0.55	low	Pos			Yes	Yes						
+1210	COVID19	1	42	M			2.88	low	0.9	low	Pos	Pos		Yes	Yes						
+1211	COVID19	1	32	M																	
+1212	COVID19	1	32	M		normal		normal		normal				Yes	No						
+1213	COVID19	1	19	M		normal		normal		normal				Yes	Yes						
+1214	COVID19	1	63	M		normal		normal		normal				Yes	Yes						
+1215	COVID19	1	63	F		high		normal		low				Yes	Yes						
+1216	COVID19	1	65	F		normal				normal		Pos	No	No	No	Yes					
+1217	COVID19	1	75	F								Pos		Yes		Yes					
+1218	COVID19	1	75	M							Pos									No	Yes
+1219	COVID19	1	45	F			3.77	low	0.901	low	Pos			Yes	Yes						
+1220	COVID19	1	62	F							Pos			No	Yes					No	No
+1221	COVID19	1	59	F					1.065	normal	Pos			Yes							
+1222	COVID19	1	55	M							Pos			Yes							
+1223	COVID19	1	41	F							Pos			Yes							
+1224	COVID19	1	25	F										Yes							
+1225	COVID19	1	35	F										Yes							
+1226	COVID19	1	35	F											Yes						
+1227	COVID19	1	30	F										Yes							
+1228	COVID19	1	30	F										No							
+1229	COVID19	1	30	F										Yes							
+1230	COVID19	1	30	F										Yes							
+1231	COVID19	1	29	F										Yes							
+1232	COVID19	1	29	F										Yes							
+1233	COVID19	1	34	F										No							
+1234	COVID19	1	50	M			10.15	normal	1.8	normal										No	No
+1235	COVID19	1	66	M							Pos	Neg	No	Yes	No	No					
+1236	COVID19	1	52	M		high		high		high										No	Yes
+1237	COVID19	1	33	F			6.15	low	1.59E+00	normal	Pos		No	No	Yes	No				No	No
+1238	COVID19	1	27	F			5.07	low	5.60E-01	low	Pos		No	Yes	Yes	No					
+1239	COVID19	1	40	F			8.78	low	4.60E-01	low	Pos		No	No	Yes	No				No	No
+1240	COVID19	1	26	F			7.63	low	2.83E+00	normal	Pos		Yes	Yes	No	No				No	No
+1241	COVID19	1	26	F			9.34	low	6.90E-01	low	Pos		No	Yes	No	No				No	No
+1242	COVID19	1	26	F			5.57	low	6.60E-01	low	Pos		No	Yes	Yes	Yes				No	No
+1243	COVID19	1	29	F			10.6	high	8.70E-01	low	Neg		No	Yes	No	Yes				No	No
+1244	COVID19	1	28	F			9.96	high	1.53E+00	normal	Pos		No	Yes	No	No				No	No
+1245	COVID19	1	34	F			7.08	low	1.47E+00	normal	Pos		No	Yes	No	No				No	No
+1246	COVID19	1	46	F	27.91	high	36.07	high	1.99E+00	normal	Neg			Yes			Yes			No	No
+1247	COVID19	1	56	M								Pos		Yes	Yes						
+1248	COVID19	1	27	F	2.55	normal	3.77	low	9.80E-01	low	Pos			Yes							
+1249	COVID19	1	32	F	2.68	normal	4.57	normal	1.44E+00	normal	Pos			Yes							
+1250	COVID19	1	56	F	2.22	normal	3.4	low	8.00E-01	low	Pos			Yes							
+1251	COVID19	1	32	F	3.45	normal	5.69	normal	1.42E+00	normal	Pos			Yes							
+1252	COVID19	1	63	F	5.3	normal	6.87	normal	1.01E+00	normal	Pos			Yes							
+1253	COVID19	1	54	F	3.13	normal	4.08	low	5.50E-01	low	Pos			Yes							
+1254	COVID19	1	46	F							Pos			Yes	Yes	Yes					
+1255	COVID19	1	48	M			2.88	low	7.24E-01	low	Pos			Yes	Yes		No			No	Yes
+1256	COVID19	1	59	M																	
+1257	COVID19	1	55	M							Neg			Yes	Yes						
+1258	COVID19	1	30	M																	
+1259	COVID19	1	60	M																	
+1260	COVID19	1	23	F																	
+1261	COVID19	1	76	F																	
+1262	COVID19	1	41	F																	
+1263	COVID19	1	36	M																	
+1264	COVID19	1	35	M																	
+1265	COVID19	1	28	M										Yes	Yes	Yes					
+1266	COVID19	1	27	F	4.48	normal	5.31	normal	0.74	low	Pos				Yes						
+1267	COVID19	1	8	M	0.78	low	1.65	low	0.69	low	Pos	Pos		Yes	Yes						
+1268	COVID19	1	0.83	F	11.63	high	14.95	high	1.96	normal	Pos	Pos			Yes		Yes				
+1269	COVID19	1	1	M	5.7	normal	9.19	normal	2.7	normal	Pos	Pos	Yes	Yes			Yes				
+1270	COVID19	1	0.167	M	1.27	low	8.32	normal	6.41	high	Pos	Pos			Yes		Yes				
+1271	COVID19	1	2	M	3.5	normal	8.8	normal	3.6	normal	Pos	Pos		Yes	Yes		Yes				
+1272	COVID19	1	15	F	5.9	normal	10.6	normal	4.04	normal	Pos	Pos	Yes	Yes	Yes						
+1273	COVID19	1	13	M	1.9	normal	3.85	low	1.7	normal	Pos	Pos	Yes	Yes	Yes						
+1274	COVID19	1	13	M	3.8	normal	7.6	normal	2.8	normal	Pos	Pos		Yes	Yes						
+1275	COVID19	1	61	M				normal		normal	Neg		No	No	No						
+1276	COVID19	1	50	F	2.4	normal	3.4	low	0.6	low				Yes	Yes	Yes					
+1277	COVID19	1	23	M	8.67	high	10.5	normal	1.1	normal											
+1278	COVID19	1	28	F	9.4	high	10.6	normal	0.86	low	Pos			Yes							
+1279	COVID19	1	35	F											Yes	Yes					
+1280	COVID19	1	27	M										Yes	Yes	Yes					
+1281	COVID19	1	7	M	0.702	low	16	high	0.229	low				Yes 	Yes	Yes					
+1282	COVID19	1	22	M							Pos		Yes	Yes							
+1283	COVID19	1	61	M					0.65	low	Pos			Yes	Yes					No	No
+1284	COVID19	1	10	F			4.08	low			Pos	Neg		Yes							
+1285	COVID19	1	46	M										Yes				37.6			
+1286	COVID19	1	62	M										Yes				36.2			
+1287	COVID19	1	63	F										Yes				37.3			
+1288	COVID19	1	30	F										Yes				36.5			
+1289	COVID19	1	45	F										Yes				36.7			
+1290	COVID19	1	62	M										Yes				36.6			
+1291	COVID19	1	50	M										Yes				36.5			
+1292	COVID19	1	38	F										Yes				37			
+1293	COVID19	1	30	M										Yes				39.5			
+1294	COVID19	1	53	F										Yes				37.4			
+1295	COVID19	1	51	M										Yes				37.1			
+1296	COVID19	1	70	M										Yes				36.7			
+1297	COVID19	1	65	F										Yes				37			
+1298	COVID19	1	51	M										Yes				36.5			
+1299	COVID19	1	45	F										Yes				36.6			
+1300	COVID19	1	64	F										Yes				36.7			
+1301	COVID19	1	13	M										Yes				36.2			
+1302	COVID19	1	55	M										Yes				36.7			
+1303	COVID19	1	48	M										Yes				36.5			
+1304	COVID19	1	57	M										Yes				36.8			
+1305	COVID19	1	53	M										Yes				36.5			
+1306	COVID19	1	60	M										Yes				37.6			
+1307	COVID19	1	72	M										Yes				36.4			
+1308	COVID19	1	51	M										Yes				37.1			
+1309	COVID19	1	83	M										Yes				36.5			
+1310	COVID19	1	74	M										Yes				36.9			
+1311	COVID19	1	65	F										Yes				36.9			
+1312	COVID19	1	62	M										Yes				37.9			
+1313	COVID19	1	51	M										Yes				37.2			
+1314	COVID19	1	66	M										Yes				37.8			
+1315	COVID19	1	51	M							Pos										
+1316	COVID19	1									Pos										
+1317	COVID19	1									Pos				Yes						
+1318	COVID19	1									Pos				Yes						
+1319	COVID19	1	7	F							Neg										
+1320	COVID19	1	40	F			4.017	low		normal											
+1321	COVID19	1	40	F			3.39	low		normal											
+1322	COVID19	1	52	M								Neg		Yes	Yes						
+1323	COVID19	1	26	M							Neg										
+1324	COVID19	1	22	F							Neg 				Yes	Yes					
+1325	COVID19	1	42	F				Normal 	0.81	low	Neg		Yes	Yes	Yes	Yes	Yes	38.7			
+1326	COVID19	1	44	M	1.47	low	3.37	low			Pos				Yes						
+1327	COVID19	1	46	F	1.2	low	1.92	low	0.47	low	Pos		Yes	Yes	Yes	Yes					
+1328	COVID19	1	69	F	10.67	high	11.73	high	0.51	low	Pos	Pos			Yes	Yes				No	No
+1329	COVID19	1	3	M							Pos				Yes					No	No
+1330	COVID19	1	2	M							Pos			Yes	Yes			39.2		No	No
+1331	COVID19	1	44	F	1.57	normal	3.19	low			Pos									No	No
+1332	COVID19	1	43	F							Pos		Yes	Yes	Yes						
+1333	COVID19	1	62	M	7.53	normal			0.27	low	Pos				Yes					No	No
+1334	COVID19	1	39	M	3.58	normal	5.23	normal	1.32	normal	Pos	Pos		Yes	Yes						
+1335	COVID19	1	21	F	1.92	normal	2.89	low	0.46	low	Pos	Pos		Yes	Yes						
+1336	COVID19	1	41	M				normal	9	high	Pos	Pos		Yes	Yes						
+1337	COVID19	1	0.299	F	0.446	low	9.68	normal	0.443	low	Pos	Pos									
+1338	COVID19	1	1.083	M	0.522	low	7.52	normal	0.235	low	Pos	Pos		Yes				37.5			
+1339	COVID19	1	30	F											Yes			37.2			
+1340	COVID19	1	38	M	7.55	normal	10.06	normal	1.49	normal	Pos			Yes	Yes			38.5		No	No
+1341	COVID19	1	58	F										Yes							
+1342	COVID19	1	60	M																	
+1343	COVID19	1	32	F										Yes	Yes						
+1344	COVID19	1	32	M										Yes							
+1345	COVID19	1	13	F																	
+1346	COVID19	1	57	F										Yes							
+1347	COVID19	1	57	M																	
+1348	COVID19	1	76	F											Yes						
+1349	COVID19	1	35	M								Pos		Yes	Yes			37.2			
+1350	COVID19	1	65	M	11.6	high	11.9	high	0.2	low		Pos		Yes	Yes			39.3			
+1351	COVID19	1	49	F	7.6	normal	8.3	normal	0.44	low		Pos		Yes	Yes			38.5			
+1352	COVID19	1	52	F	2	normal	2.4	low	0.3	low		Pos		Yes	Yes			37.5			
+1353	COVID19	1	41	M	5	normal	6.6	normal	0.98	low		Pos		Yes	Yes			39		No	No
+1354	COVID19	1	61	M	16.2	high	17.9	high	1.2	normal		Pos		Yes	Yes					No	No
+1355	COVID19	1	64	F							Pos										
+1356	COVID19	1	54	M			6.62	normal	2.02	normal				Yes						No	Yes
+1357	COVID19	1	42	F			4.01	low	0.71	low				Yes							
+1358	COVID19	1	33	M										Yes	Yes			39.1			
+1359	COVID19	1																			
+1360	COVID19	1																			
+1361	COVID19	1																			
+1362	COVID19	1	65	M								Pos		Yes						No	Yes
+1363	COVID19	1	27	M								Neg	Yes	Yes	Yes		Yes				
+1364	COVID19	1	65	F	4	normal	4.8	normal	0.6	low				Yes	Yes			39		No	No
+1365	COVID19	1	66	M	3.2	normal	4.2	low	0.7	low				Yes	Yes			39		No	No
+1366	COVID19	1	37	F	3.1	normal	5.6	normal	2.2	normal			Yes	Yes		Yes		36.2			
+1367	COVID19	1	36	M	8.1	high	11.4	high	2.7	normal			Yes	Yes	Yes			36.5		No	No
+1368	COVID19	1	10	M	3.2	normal	6.5	normal	2.8	normal								36.5			
+1369	COVID19	1	63	F	2.7	normal	4.3	low	1.2	normal				Yes	Yes			39		No	Yes
+1370	COVID19	1	54	M										Yes				38.3			
+1371	COVID19	1	57	M							Pos										
+1372	COVID19	1	72	M							Pos			Yes	Yes					No	Yes
+1373	COVID19	1	30	F																	
+1374	COVID19	1																			
+1375	COVID19	1																			
+1376	COVID19	1																			
+1377	COVID19	1	23	M										Yes							
+1378	COVID19	1																			
+1379	COVID19	1	54	M	9	high	10.1	normal	0.6	low	Pos		Yes	Yes	Yes						
+1380	COVID19	1	25	F	1.4	low	2.3	low	0.8	low	Pos		Yes	Yes	Yes						
+1381	COVID19	1	47	M			9.6	normal	1	low	Pos			Yes	Yes						
+1382	COVID19	1	53	M	2.2	normal	3.8	low	1.3	normal	Pos			Yes	Yes						
+1383	COVID19	1	29	M	2.7	normal	3.9	low	0.8	low	Pos			Yes	Yes						
+1384	COVID19	1	50	F	2.4	normal	4.3	low	1.3	normal	Pos			Yes							
+1385	COVID19	1	14	M	3	normal	5.2	normal	1.4	normal	Pos										
+1386	COVID19	1	56	F	8.8	high	9.9	normal	0.9	low	Pos			Yes	Yes						
+1387	COVID19	1	51	F	4.2	normal	5.4	normal	0.9	low	Pos			Yes	Yes						
+1388	COVID19	1	51	F	3.04	normal	5.93	normal	1.5	normal			Yes	Yes			Yes				
+1389	COVID19	1	27	F	2.12	normal	3.63	low	1.25	normal			Yes	Yes			Yes				
+1390	COVID19	1	53	M									Yes	Yes			Yes				
+1391	COVID19	1	61	F							Pos				Yes			38			
+1392	COVID19	1	6	M							neg										
+1393	COVID19	1	64	M			4.6	normal	0.23	low	Pos	Pos	Yes	Yes				39			
+1394	COVID19	1	29	M										Yes	Yes	Yes					
+1395	COVID19	1	28	F																	
+1396	COVID19	1	23	M				Normal		high				Yes	Yes					No	No
+1397	COVID19	1	34	F			8.9	normal		low	Neg			Yes				37.4		No	No
+1398	COVID19	1	29	F						low	Pos			Yes		Yes		37.6		No	No
+1399	COVID19	1	52	M		high				low	Pos			Yes	Yes		Yes	37.5		No	No
+1400	COVID19	1	15	M			11.82	high		normal	Neg			Yes				37.9		No	No
+1401	COVID19	1	9	M			6.6	normal		high	Neg		Yes							No	No
+1402	COVID19	1	0.5	F		normal		Normal		High	Pos									No	No
+1403	COVID19	1	56					Normal		Normal	Pos			Yes				39.1			
+1404	COVID19	1	65	F				Low		Low	Pos			Yes	Yes		Yes			No	No
+1405	COVID19	1		M				Low		Low				No	Yes					No	No
+1406	COVID19	1	57	M							Pos										
+1407	COVID19	1	42	M										Yes	Yes	Yes					
+1408	COVID19	1	57	M		normal				normal	Pos			Yes		Yes		39			
+1409	COVID19	1	56	M	3.33					low					Yes						
+1410	COVID19	1	61	F	3.47					normal				Yes	Yes						
+1411	COVID19	1	48	F		normal 				normal											
+1412	COVID19	1	53	M										Yes	Yes			38			
+1413	COVID19	1		F										Yes				37.5			
+1414	COVID19	1	28	M												Yes					
+1415	COVID19	1	34	M																	
+1416	COVID19	1	4	M											Yes						
+1417	COVID19	1	28	F									Yes			Yes		37.4			
+1418	COVID19	1	4	F										Yes				37.2			
+1419	COVID19	1	32	F										Yes							
+1420	COVID19	1	27	F							Pos			Yes	Yes						
+1421	COVID19	1	83	M																	
+1422	COVID19	1	80	F											Yes						
+1423	COVID19	1	34	F	9.97	high			0.97	low			No	Yes	No		No	38.3		No	No
+1424	COVID19	1	0	M					2.43	normal	Pos	Neg									
+1425	COVID19	1	78	F	2.09	normal	3.52	low	7.30E-01	low				No						No	No
+1426	COVID19	1	79	M	14.7	high			3.20E-01	low				Yes				37.8			
+1427	COVID19	1	35	M		low				low				Yes							
+1428	COVID19	1	33	F		normal															
+1429	COVID19	1	3	M		normal															
+1430	COVID19	1	50	M										Yes	Yes			39			
+1431	COVID19	1	49	M							Pos			Yes							
+1432	COVID19	1	25	F	3.7	normal								Yes	Yes						
+1433	COVID19	1	23	F			1.18	low	1.14E+00	normal	Pos			Yes			No	38.7			
+1434	COVID19	1	34	F			9.54	normal	1.00E+00	low	Pos			No			No				
+1435	COVID19	1	32	F			10.2	normal	1.08E+00	normal	Pos			No			No				
+1436	COVID19	1	61	M					0.56	low	Pos			Yes	Yes			39		No	Yes
+1437	COVID19	1	62	F					1.74	normal	Pos		Yes	No	Yes				Yes		
+1438	COVID19	1	45	F					0.901	low	Pos		No	Yes	Yes				Yes		
+1439	COVID19	1	59	F					1.056	normal	Pos		No	Yes	Yes				No		
+1440	COVID19	1	33	F					1.52	normal	Pos		No	Yes	No				No		
+1441	COVID19	1	34	M							Pos		No	Yes	No				No		
+1442	COVID19	1	43	M							Pos		No	Yes	Yes				Yes		
+1443	COVID19	1	26	M					0.9	low	Pos		No	Yes	Yes				Yes		
+1444	COVID19	1	18	F					1.97	normal	Pos		No	Yes	No				No		
+1445	COVID19	1	25	M					0.49	low	Neg		No	Yes	Yes				No		
+1446	COVID19	1	69	M			8.23	normal	0.77	low	Pos			Yes						No	No
+1447	COVID19	1	50	F			11.1	high	1.28	normal	Pos	Pos	Yes	Yes	Yes			39.2			
+1448	COVID19	1	84	F			12.49	high	0.4	low				No	Yes					No	Yes
+1449	COVID19	1	73	M										Yes	Yes					No	No
+1450	COVID19	1	55	F										Yes	Yes	Yes				No	No
+1451	COVID19	1	66	F										Yes	Yes					No	No
+1452	COVID19	1	67	M										Yes	Yes						
+1453	COVID19	1	0.5	M	0.9	low															
+1454	COVID19	1		M										Yes		Yes					
+1455	COVID19	1		F	1.2	low	2.6	low						Yes	Yes						
+1456	COVID19	1	7	M	11.2	high	16	high	3.2	normal				Yes	Yes						
+1457	COVID19	1	10.917	F	3.4	normal	5.9	normal	1.7	normal				Yes		Yes					
+1458	COVID19	1	10.917	F	3.2	normal	6.7	normal	1.2	normal				Yes	Yes	Yes					
+1459	COVID19	1	9	M	1.1	low	3.2	low	1.7	normal				Yes	Yes	Yes					
+1460	COVID19	1	0.583	F	2	normal	8	normal	5.1	high					Yes						
+1461	COVID19	1	6	F	1.6	normal	6	normal	3.7	normal				Yes							
+1462	COVID19	1	0.25	F	4.2	normal	9.7	normal	4.2	normal				Yes							
+1463	COVID19	1	4	F	1.3	low	5.4	normal	3.6	normal					Yes						
+1464	COVID19	1	8	M	8.07	high	11.9	high	2.1	normal				Yes		Yes					
+1465	COVID19	1	5	M	7.4	normal	12.5	high	3.3	normal				Yes	Yes						
+1466	COVID19	1	74	F										Yes							
+1467	COVID19	1	73	F										Yes	Yes		No				
+1468	COVID19	1	65	F	3.13	normal	4.31	normal	0.88	low			No	Yes	Yes		Yes			No	No
+1469	COVID19	1	66	M	3.53	normal	5.24	normal	1.21	normal			No	Yes	Yes		No			No	No
+1470	COVID19	1	62	M	2.26	normal	3.85	normal	0.83	low			Yes	Yes	Yes		No			Yes	No
+1471	COVID19	1	63	M	6.31	high	6.79	normal	0.26	low			No	Yes	Yes		No			No	No
+1472	COVID19	1	63	F	5.43	normal	6.71	normal	0.77	low			No	Yes	Yes		Yes			No	No
+1473	COVID19	1	36	M	10.49	high	13.55	high	2.37	normal			Yes	Yes	Yes		No			No	No
+1474	COVID19	1	10	M	2.26	normal	6.722	normal	3.79	high			No	No	No		No			No	No
+1475	COVID19	1	35	M	2.62	normal	4.62	normal	1.59	normal			No	Yes	Yes		No			No	No
+1476	COVID19	1	51	M	3.18	normal	4.94	normal	1.45	normal			No	No	Yes		Yes			No	No
+1477	COVID19	1	65	F	5.35	normal	5.89	normal	0.42	low			No	Yes	Yes		No			No	Yes
+1478	COVID19	1	72	M	3.73	normal	4.99	normal					No	Yes	Yes		No			Yes	No
+1479	COVID19	1	56	F	3	normal	3.98	normal	0.83	low			No	Yes	Yes		No			No	Yes
+1480	COVID19	1	1.4				9.2	normal													
+1481	COVID19	1	0.83				14.8	high													
+1482	COVID19	1	3				15	high													
+1483	COVID19	1	4				6.6	normal													
+1484	COVID19	1	6				5.3	normal													
